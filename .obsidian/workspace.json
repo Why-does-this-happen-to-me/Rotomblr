@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5b91adcbbbc17323",
+    "type": "split",
+    "children": [
+      {
+        "id": "973b3da7b6fe01b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ea0b4df3dfc3fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ffa09a3e0ffce2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2098a3dca6588eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f6e60ac99e693d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52f1d687f2ec09a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9696f25363c2754a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b41389618b9cf100",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e15c7ca3dcea614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031c2beb475ad264",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6055f6f7ff42852",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44cf899cfa4e652c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "602b92722f062746",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca24cfc7d8a4ff84",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "14853ce35acd1542",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "e23fa26e388f478d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "b6ea0b4df3dfc3fc",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "rotomblr/universes/Kappa's universe.md",
+    "rotomblr/universes/Blackthorn's universe.md",
+    "rotomblr/events/Rosie's wedding.md",
+    "rotomblr/characters/Triangle.md",
+    "rotomblr/characters/Squid.md",
+    "rotomblr/characters/Square.md",
+    "rotomblr/characters/Sprite.md",
+    "rotomblr/characters/Spidops-woman.md",
+    "rotomblr/characters/Soda.md",
+    "rotomblr/characters/Snowflake.md",
+    "rotomblr/characters/Shattered Wall.md",
+    "rotomblr/characters/Shallahi.md",
+    "rotomblr/characters/Rosie.md",
+    "rotomblr/characters/Rose.md",
+    "rotomblr/characters/Rad.md",
+    "rotomblr/characters/Paper Anon.md",
+    "rotomblr/characters/Nya.md",
+    "rotomblr/characters/Mutt.md",
+    "rotomblr/characters/Matt Murdock.md",
+    "rotomblr/characters/Marla.md",
+    "rotomblr/characters/Lumi.md",
+    "rotomblr/characters/Lily.md",
+    "rotomblr/characters/Kuro.md",
+    "rotomblr/characters/Kay.md",
+    "rotomblr/characters/Kappa.md",
+    "rotomblr/characters/CD",
+    "rotomblr/events",
+    "rotomblr/Nueva carpeta",
+    "rotomblr/universes",
+    "rotomblr/Nuevo acceso directo.lnk",
+    "rotomblr/characters",
+    "rotomblr/accounts",
+    "rotomblr/Blackthorn's universe",
+    "rotomblr/Mart's universe",
+    "rotomblr - Acceso directo.lnk",
+    "rotomblr/Sin título.canvas"
+  ]
+}

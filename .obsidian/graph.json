@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#universes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#asked  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "tag:#rotombl_account  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.00276148148148,
+  "lineSizeMultiplier": 1.00276148148148,
+  "collapse-forces": false,
+  "centerStrength": 0.241125925925926,
+  "repelStrength": 8.38755555555556,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 0.28165328146789603,
+  "close": true
+}
