@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Squid.md",
+                "file": "rotomblr/characters/Hilda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Squid.md",
+                "file": "rotomblr/characters/Hilda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Squid.md",
+                "file": "rotomblr/characters/Hilda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Squid.md"
+                "file": "rotomblr/characters/Hilda.md"
               }
             }
           },
@@ -174,11 +174,11 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Squid.md",
     "rotomblr/characters/Dualie.md",
     "rotomblr/characters/Hilda.md",
     "rotomblr/characters/Rose.md",
     "rotomblr/universes/World without pokemon.md",
-    "rotomblr/characters/Squid.md",
     "rotomblr/universes/Matt's world.md",
     "rotomblr/characters/Shallahi.md",
     "rotomblr/characters/Yuki Hoshino.md",
