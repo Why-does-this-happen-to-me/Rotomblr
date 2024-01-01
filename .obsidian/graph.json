@@ -46,7 +46,7 @@
       "query": "tag:#event  ",
       "color": {
         "a": 1,
-        "rgb": 10027263
+        "rgb": 16711888
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 8.38755555555556,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 0.4296780914342555,
+  "scale": 0.6554983534946974,
   "close": true
 }

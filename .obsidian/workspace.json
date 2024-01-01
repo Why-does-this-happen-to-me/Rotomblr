@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "973b3da7b6fe01b6",
+        "id": "21318ed7bbcab1af",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ea0b4df3dfc3fc",
+            "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
     "rotomblr/universes/The cataloguer's universe.md",
     "rotomblr/Universes with rotomblr.md",
