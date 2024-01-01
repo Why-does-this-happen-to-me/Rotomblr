@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/universes/Matt's world.md",
+                "file": "rotomblr/characters/Squid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/universes/Matt's world.md",
+                "file": "rotomblr/characters/Squid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/universes/Matt's world.md",
+                "file": "rotomblr/characters/Squid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/universes/Matt's world.md"
+                "file": "rotomblr/characters/Squid.md"
               }
             }
           },
@@ -174,8 +174,12 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Squid.md",
     "rotomblr/characters/Dualie.md",
+    "rotomblr/characters/Hilda.md",
+    "rotomblr/characters/Rose.md",
+    "rotomblr/universes/World without pokemon.md",
+    "rotomblr/characters/Squid.md",
+    "rotomblr/universes/Matt's world.md",
     "rotomblr/characters/Shallahi.md",
     "rotomblr/characters/Yuki Hoshino.md",
     "rotomblr/characters/Triangle.md",
@@ -187,7 +191,6 @@
     "rotomblr/characters/Snowflake.md",
     "rotomblr/characters/Shattered Wall.md",
     "rotomblr/characters/Rosie.md",
-    "rotomblr/characters/Rose.md",
     "rotomblr/characters/Rad.md",
     "rotomblr/characters/Paper Anon.md",
     "rotomblr/characters/Nya.md",
@@ -197,9 +200,6 @@
     "rotomblr/characters/Marla.md",
     "rotomblr/characters/Lumi.md",
     "rotomblr/characters/Lily.md",
-    "rotomblr/characters/Kuro.md",
-    "rotomblr/characters/Keen.md",
-    "rotomblr/characters/Kay.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
