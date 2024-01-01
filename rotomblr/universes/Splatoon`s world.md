@@ -1,4 +1,4 @@
-World from Splatoon.
+World from [[Splatoon]].
 
 [[Universes without rotomblr]]
 

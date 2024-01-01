@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/accounts/@iam-emmet.md",
+                "file": "rotomblr/characters/Dualie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/accounts/@iam-emmet.md",
+                "file": "rotomblr/characters/Dualie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/accounts/@iam-emmet.md",
+                "file": "rotomblr/characters/Dualie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/accounts/@iam-emmet.md"
+                "file": "rotomblr/characters/Dualie.md"
               }
             }
           },
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,14 +174,16 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Emmet.md",
+    "rotomblr/universes/Splatoon`s world.md",
+    "rotomblr/universes/Keen's dimension.md",
+    "rotomblr/accounts/@fungalpieceofshit.md",
     "rotomblr/accounts/@iam-emmet.md",
+    "rotomblr/characters/Emmet.md",
     "README.md",
     "rotomblr/universes/The cataloguer's universe.md",
     "rotomblr/Universes with rotomblr.md",
     "rotomblr/accounts/@rotomblr-multiverse-cataloguer.md",
     "rotomblr/characters/The cataloguer.md",
-    "rotomblr/universes/Keen's dimension.md",
     "rotomblr/characters/Arceus 1.md",
     "rotomblr/characters/Keen.md",
     "rotomblr/characters/57189.md",
@@ -199,8 +201,6 @@
     "rotomblr/characters/Shattered Wall.md",
     "rotomblr/characters/Shallahi.md",
     "rotomblr/characters/Rosie.md",
-    "rotomblr/characters/Rose.md",
-    "rotomblr/characters/Rad.md",
     "rotomblr/characters/CD",
     "rotomblr/events",
     "rotomblr/Nueva carpeta",
