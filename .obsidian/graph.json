@@ -22,6 +22,13 @@
       }
     },
     {
+      "query": "tag:#deities  ",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    },
+    {
       "query": "tag:#characters  ",
       "color": {
         "a": 1,
@@ -33,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 1114367
+      }
+    },
+    {
+      "query": "tag:#event  ",
+      "color": {
+        "a": 1,
+        "rgb": 10027263
       }
     }
   ],
