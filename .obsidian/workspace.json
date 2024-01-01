@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/accounts/@iam-emmet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/accounts/@iam-emmet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/accounts/@iam-emmet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Sin título.md"
+                "file": "rotomblr/accounts/@iam-emmet.md"
               }
             }
           },
@@ -174,7 +174,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Sin título.md",
+    "rotomblr/characters/Emmet.md",
+    "rotomblr/accounts/@iam-emmet.md",
     "README.md",
     "rotomblr/universes/The cataloguer's universe.md",
     "rotomblr/Universes with rotomblr.md",
@@ -200,7 +201,6 @@
     "rotomblr/characters/Rosie.md",
     "rotomblr/characters/Rose.md",
     "rotomblr/characters/Rad.md",
-    "rotomblr/characters/Paper Anon.md",
     "rotomblr/characters/CD",
     "rotomblr/events",
     "rotomblr/Nueva carpeta",
