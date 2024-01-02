@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Gwendoline.md",
+                "file": "rotomblr/characters/Squid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Gwendoline.md",
+                "file": "rotomblr/characters/Squid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Gwendoline.md",
+                "file": "rotomblr/characters/Squid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Gwendoline.md"
+                "file": "rotomblr/characters/Squid.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Gwendoline.md",
     "rotomblr/characters/Rosie.md",
     "rotomblr/characters/Lumi.md",
     "rotomblr/characters/Cameron.md",
@@ -199,7 +200,6 @@
     "rotomblr/characters/Yuki Hoshino.md",
     "rotomblr/characters/The cataloguer.md",
     "rotomblr/characters/Sprite.md",
-    "rotomblr/characters/Snowflake.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
