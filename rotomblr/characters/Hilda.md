@@ -1,3 +1,3 @@
-She/her, unovan trainer from [[Matt's world]]. [[@breakneck-battle-buff]]
+She/her, unovan trainer from [[Shallahi's current world]]. [[@breakneck-battle-buff]]
 
 #characters 
