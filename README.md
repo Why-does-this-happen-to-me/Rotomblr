@@ -33,6 +33,10 @@ These connect  everything and have some basic info*</td>
 <td>events</td>
 <td>I'm working with the possibility of documenting certain events**</td>
 </tr>
+<tr>
+<td>organizations</td>
+<td>I didn't know how to refer to groups and companies, so they are in this folder</td>
+</tr>
 </tbody>
 </table>
 
