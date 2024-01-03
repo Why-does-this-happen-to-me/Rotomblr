@@ -13,7 +13,11 @@ Team members:
 
 (Some Members will be swapped for others if needed.)
 
-Specializes in: Stealth, infiltration, distraction, information extraction, battle planning.
+Specializes in:
+- Stealth, infiltration
+- distraction
+- information extraction
+- battle planning
 
 Open to questions. [[@taskforcedistortion]]
 
