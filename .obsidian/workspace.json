@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/organizations/Taskforce Distortion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/organizations/Taskforce Distortion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/organizations/Taskforce Distortion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/organizations/Taskforce Distortion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,16 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/universes/Taskforce Distortion's universe.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Star division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Skull division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Rocket division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Plasma division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Galactic division.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Aqua division.md",
     "rotomblr/organizations/Taskforce Distortion.md",
+    "rotomblr/organizations/taskforce distorsion's divisions",
+    "rotomblr/universes/Taskforce Distortion's universe.md",
     "rotomblr/organizations/7tail Exploration.md",
     "rotomblr/characters/Ika.md",
     "rotomblr/characters/Ceerty.md",
@@ -194,13 +194,6 @@
     "rotomblr/characters/Kappa.md",
     "rotomblr/characters/Nya.md",
     "rotomblr/characters/Lily.md",
-    "rotomblr/characters/Rad.md",
-    "rotomblr/Multiverse.md",
-    "rotomblr/Universes with rotomblr.md",
-    "rotomblr/characters/Gwendoline.md",
-    "rotomblr/characters/Rosie.md",
-    "rotomblr/characters/Lumi.md",
-    "rotomblr/universes/The Nexus Archive's world.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
@@ -210,7 +203,6 @@
     "rotomblr/characters",
     "rotomblr/accounts",
     "rotomblr/Blackthorn's universe",
-    "rotomblr/Mart's universe",
     "rotomblr/Sin título.canvas"
   ]
 }
