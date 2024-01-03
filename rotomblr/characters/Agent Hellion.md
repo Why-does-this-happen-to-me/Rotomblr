@@ -9,4 +9,4 @@ Specializes in:
 
 Has her own account, linking to outside accounts of agents is not permitted however.
 
-#c
+#characters 

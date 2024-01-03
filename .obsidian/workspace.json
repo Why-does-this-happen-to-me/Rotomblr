@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Agent Hellion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Agent Hellion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Agent Hellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Agent Hellion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +166,10 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Agent Geode.md",
     "rotomblr/characters/Agent Omni.md",
+    "rotomblr/characters/Agent Meowth.md",
+    "rotomblr/characters/Agent Jessie.md",
     "rotomblr/characters/Agent Hellion.md",
     "rotomblr/characters/Agent Pixie.md",
     "rotomblr/characters/Mars.md",
@@ -197,9 +192,6 @@
     "rotomblr/characters/Arianna.md",
     "rotomblr/characters/Agent Ruby.md",
     "rotomblr/characters/Agent Soul.md",
-    "rotomblr/characters/Agent Heart.md",
-    "rotomblr/characters/Agent Meowth.md",
-    "rotomblr/characters/Agent James.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
