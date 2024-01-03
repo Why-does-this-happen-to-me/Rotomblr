@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7tail Exploration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7tail Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7tail Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7tail Exploration.md"
+              }
             }
           },
           {
@@ -166,6 +174,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "7tail Exploration.md",
+    "rotomblr/organizations",
     "rotomblr/characters/Squid.md",
     "rotomblr/characters/Cynthia.md",
     "rotomblr/characters/Hilda.md",
@@ -191,7 +201,6 @@
     "rotomblr/universes/The Nexus Archive's world.md",
     "rotomblr/characters/Angelo.md",
     "rotomblr/accounts/@the-nexus-archive-official.md",
-    "rotomblr/characters/Soda.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
@@ -202,7 +211,6 @@
     "rotomblr/accounts",
     "rotomblr/Blackthorn's universe",
     "rotomblr/Mart's universe",
-    "rotomblr - Acceso directo.lnk",
     "rotomblr/Sin título.canvas"
   ]
 }
