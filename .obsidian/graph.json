@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#universes  ",
@@ -48,9 +48,16 @@
         "a": 1,
         "rgb": 16711888
       }
+    },
+    {
+      "query": "tag:#organization  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1.00276148148148,
@@ -60,6 +67,6 @@
   "repelStrength": 8.38755555555556,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 1.0000000000000149,
+  "scale": 0.28165328146789803,
   "close": true
 }

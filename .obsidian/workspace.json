@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7tail Exploration.md",
+                "file": "rotomblr/organizations/Taskforce Distortion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7tail Exploration.md",
+                "file": "rotomblr/organizations/Taskforce Distortion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7tail Exploration.md",
+                "file": "rotomblr/organizations/Taskforce Distortion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7tail Exploration.md"
+                "file": "rotomblr/organizations/Taskforce Distortion.md"
               }
             }
           },
@@ -174,16 +174,18 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "7tail Exploration.md",
+    "rotomblr/universes/Taskforce Distortion's universe.md",
+    "rotomblr/organizations/Taskforce Distortion.md",
+    "rotomblr/organizations/7tail Exploration.md",
+    "rotomblr/characters/Ika.md",
+    "rotomblr/characters/Ceerty.md",
+    "rotomblr/characters/Brook.md",
     "rotomblr/organizations",
     "rotomblr/characters/Squid.md",
     "rotomblr/characters/Cynthia.md",
     "rotomblr/characters/Hilda.md",
     "rotomblr/accounts/@shiftingbetweenrealities.md",
     "rotomblr/universes/Whatever world Cynthia is in right now.md",
-    "rotomblr/characters/Ceerty.md",
-    "rotomblr/characters/Brook.md",
-    "rotomblr/characters/Ika.md",
     "rotomblr/accounts/@7tail-exploration.md",
     "rotomblr/universes/Matt's world.md",
     "rotomblr/characters/Joltik-guy.md",
@@ -199,8 +201,6 @@
     "rotomblr/characters/Rosie.md",
     "rotomblr/characters/Lumi.md",
     "rotomblr/universes/The Nexus Archive's world.md",
-    "rotomblr/characters/Angelo.md",
-    "rotomblr/accounts/@the-nexus-archive-official.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
