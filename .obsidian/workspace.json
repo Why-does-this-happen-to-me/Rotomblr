@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Nya.md",
+                "file": "rotomblr/characters/Archie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Nya.md",
+                "file": "rotomblr/characters/Archie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Nya.md",
+                "file": "rotomblr/characters/Archie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Nya.md"
+                "file": "rotomblr/characters/Archie.md"
               }
             }
           },
@@ -174,9 +174,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Kappa.md",
     "rotomblr/characters/Archie.md",
     "rotomblr/characters/Arianna.md",
     "rotomblr/characters/Giovanni.md",
+    "rotomblr/characters/Nya.md",
+    "rotomblr/characters/Shattered Wall.md",
+    "rotomblr/characters/Rad.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Rocket division.md",
     "rotomblr/accounts/@taskforcedistortion.md",
     "rotomblr/characters/Shadow.md",
@@ -198,10 +202,6 @@
     "rotomblr/characters/Cynthia.md",
     "rotomblr/characters/Hilda.md",
     "rotomblr/accounts/@shiftingbetweenrealities.md",
-    "rotomblr/universes/Whatever world Cynthia is in right now.md",
-    "rotomblr/accounts/@7tail-exploration.md",
-    "rotomblr/universes/Matt's world.md",
-    "rotomblr/characters/Joltik-guy.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
