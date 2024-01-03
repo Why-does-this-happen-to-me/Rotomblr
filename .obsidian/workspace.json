@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/characters/Archie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/characters/Archie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Sin título.md",
+                "file": "rotomblr/characters/Archie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Sin título.md"
+                "file": "rotomblr/characters/Archie.md"
               }
             }
           },
@@ -172,11 +172,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "248eb5b909d1dad9",
+  "active": "f2f6e60ac99e693d",
   "lastOpenFiles": [
-    "rotomblr/characters/Sin título.md",
-    "rotomblr/organizations/taskforce distorsion's divisions/Rocket division.md",
+    "rotomblr/characters/Arianna.md",
+    "rotomblr/characters/Archie.md",
     "rotomblr/characters/Giovanni.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Rocket division.md",
     "rotomblr/accounts/@taskforcedistortion.md",
     "rotomblr/characters/Shadow.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Star division.md",
@@ -201,7 +202,6 @@
     "rotomblr/accounts/@7tail-exploration.md",
     "rotomblr/universes/Matt's world.md",
     "rotomblr/characters/Joltik-guy.md",
-    "rotomblr/characters/Marla.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
