@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Archie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Archie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Archie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Archie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,12 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Kappa.md",
+    "rotomblr/characters/Maxie.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Aqua division.md",
+    "rotomblr/characters/Shelly.md",
+    "rotomblr/characters/Matt.md",
     "rotomblr/characters/Archie.md",
+    "rotomblr/characters/Kappa.md",
     "rotomblr/characters/Arianna.md",
     "rotomblr/characters/Giovanni.md",
     "rotomblr/characters/Nya.md",
@@ -189,7 +185,6 @@
     "rotomblr/organizations/taskforce distorsion's divisions/Plasma division.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Galactic division.md",
-    "rotomblr/organizations/taskforce distorsion's divisions/Aqua division.md",
     "rotomblr/organizations/Taskforce Distortion.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/universes/Taskforce Distortion's universe.md",
@@ -199,9 +194,6 @@
     "rotomblr/characters/Brook.md",
     "rotomblr/organizations",
     "rotomblr/characters/Squid.md",
-    "rotomblr/characters/Cynthia.md",
-    "rotomblr/characters/Hilda.md",
-    "rotomblr/accounts/@shiftingbetweenrealities.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
