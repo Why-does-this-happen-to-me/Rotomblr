@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Guzma.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Guzma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Guzma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Guzma.md"
+              }
             }
           },
           {
@@ -166,6 +174,15 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/N.md",
+    "rotomblr/characters/Guzma.md",
+    "rotomblr/characters/Cyrus.md",
+    "rotomblr/characters/Saturn.md",
+    "rotomblr/characters/Jupiter.md",
+    "rotomblr/characters/Mars.md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
+    "rotomblr/characters/Courtney.md",
+    "rotomblr/characters/Tabitha.md",
     "rotomblr/characters/Maxie.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Aqua division.md",
     "rotomblr/characters/Shelly.md",
@@ -183,17 +200,8 @@
     "rotomblr/organizations/taskforce distorsion's divisions/Star division.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Skull division.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Plasma division.md",
-    "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
-    "rotomblr/organizations/taskforce distorsion's divisions/Galactic division.md",
-    "rotomblr/organizations/Taskforce Distortion.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
-    "rotomblr/universes/Taskforce Distortion's universe.md",
-    "rotomblr/organizations/7tail Exploration.md",
-    "rotomblr/characters/Ika.md",
-    "rotomblr/characters/Ceerty.md",
-    "rotomblr/characters/Brook.md",
     "rotomblr/organizations",
-    "rotomblr/characters/Squid.md",
     "Sin título.canvas",
     "rotomblr/characters/CD",
     "rotomblr/events",
