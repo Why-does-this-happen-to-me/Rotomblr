@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Agent James.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lynda's",
+                "query": "disto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Agent James.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Agent James.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Agent James.md"
+              }
             }
           },
           {
@@ -165,8 +173,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Gold Hunter.md",
     "rotomblr/universes/Lynda's universe.md",
     "rotomblr/characters/Shadow.md",
     "rotomblr/characters/Lynda.md",
@@ -180,7 +189,6 @@
     "rotomblr/characters/Obsidian.md",
     "rotomblr/characters/Catherine.md",
     "rotomblr/accounts/@Shadow-Cafe.md",
-    "rotomblr/characters/Gold Hunter.md",
     "rotomblr/characters/Silver Hunter.md",
     "rotomblr/accounts/@TheirHeartandSoul.md",
     "rotomblr/characters/Ho-oh.md",
