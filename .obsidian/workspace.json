@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/accounts/Ichika.md",
+                "file": "rotomblr/characters/Myron.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/accounts/Ichika.md",
+                "file": "rotomblr/characters/Myron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/accounts/Ichika.md",
+                "file": "rotomblr/characters/Myron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/accounts/Ichika.md"
+                "file": "rotomblr/characters/Myron.md"
               }
             }
           },
@@ -174,7 +174,10 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Myron.md",
+    "Marianne.md",
     "rotomblr/accounts/Ichika.md",
+    "rotomblr/accounts/@DragonsAreOverrated2.md",
     "rotomblr/accounts/@TimeTravelerPyrite.md",
     "rotomblr/characters/Pyrite.md",
     "rotomblr/universes/Lynda's universe.md",
@@ -197,9 +200,6 @@
     "rotomblr/characters/Lucretia Minsk.md",
     "rotomblr/characters/Cd.md",
     "rotomblr/characters/Araquanid man.md",
-    "rotomblr/characters/Arceus 1.md",
-    "rotomblr/characters/Rose.md",
-    "rotomblr/characters/Agent Hellion.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
