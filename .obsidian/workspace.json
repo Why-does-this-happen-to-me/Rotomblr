@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Linda.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Linda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Linda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Linda.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Linda.md",
     "rotomblr/accounts/@longing-for-a-perfect-world.md",
     "rotomblr/characters/Cyrus-paldea.md",
     "rotomblr/universes/Arven's universe.md",
@@ -191,7 +200,6 @@
     "rotomblr/characters/Shadow.md",
     "rotomblr/characters/Saturn.md",
     "rotomblr/characters/Plumeria.md",
-    "rotomblr/characters/N.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
