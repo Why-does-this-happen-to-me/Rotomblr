@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Bronze.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Bronze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Bronze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Bronze.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Cassandra.md",
+    "rotomblr/characters/Capella (Cappy).md",
     "rotomblr/characters/Bronze.md",
+    "rotomblr/characters/Cassandra.md",
     "rotomblr/characters/Jemie.md",
     "rotomblr/characters/Archie.md",
     "rotomblr/characters/Maxie.md",
@@ -199,7 +192,6 @@
     "rotomblr/characters/Lynda.md",
     "rotomblr/characters/Silver.md",
     "rotomblr/Universes with rotomblr.md",
-    "rotomblr/Universes without rotomblr.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
