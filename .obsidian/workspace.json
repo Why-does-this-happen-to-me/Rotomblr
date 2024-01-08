@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +164,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e23fa26e388f478d",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/@longing-for-a-perfect-world.md",
+    "rotomblr/characters/Cyrus-paldea.md",
+    "rotomblr/universes/Arven's universe.md",
+    "rotomblr/characters/Arven.md",
+    "rotomblr/accounts/@captain-mommy-issues.md",
+    "rotomblr/Multiverse.md",
     "CONTRIBUTING.md",
     "rotomblr/accounts/@castelias-cat-queen.md",
     "rotomblr/characters/Lucretia Minsk.md",
@@ -186,12 +192,6 @@
     "rotomblr/characters/Saturn.md",
     "rotomblr/characters/Plumeria.md",
     "rotomblr/characters/N.md",
-    "rotomblr/characters/Maxie.md",
-    "rotomblr/characters/Matt.md",
-    "rotomblr/characters/Jupiter.md",
-    "rotomblr/characters/Ika.md",
-    "rotomblr/characters/Guzma.md",
-    "rotomblr/characters/Giovanni.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
