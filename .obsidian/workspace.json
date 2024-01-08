@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Myron.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Myron.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Myron.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Myron.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,7 +174,11 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/@Mysterious-Skies.md",
+    "rotomblr/characters/Violet.md",
     "rotomblr/characters/Myron.md",
+    "rotomblr/characters/Apricot.md",
+    "rotomblr/accounts/@Singing-Deserts.md",
     "Marianne.md",
     "rotomblr/accounts/Ichika.md",
     "rotomblr/accounts/@DragonsAreOverrated2.md",
@@ -196,10 +200,6 @@
     "rotomblr/characters/Arven.md",
     "rotomblr/accounts/@captain-mommy-issues.md",
     "CONTRIBUTING.md",
-    "rotomblr/accounts/@castelias-cat-queen.md",
-    "rotomblr/characters/Lucretia Minsk.md",
-    "rotomblr/characters/Cd.md",
-    "rotomblr/characters/Araquanid man.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
