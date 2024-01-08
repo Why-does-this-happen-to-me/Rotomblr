@@ -6,6 +6,6 @@ He/him, doesn't mind she/her, newly found out he likes pup/pupself too. Trying t
 - ⌛: Chronos his Celebi
 - 🍞: Thanatos (She/It)
 
-Lives in [[Lynda's universe]]. [[@TimeTravelerPyrite]]
+Lives in [[Taskforce Distortion]]. [[@TimeTravelerPyrite]]
 
 #characters 

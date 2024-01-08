@@ -1,3 +1,3 @@
-She/her. Signs her posts with her name. Lives in [[Lynda's universe]]. [[@FeatheredJohtoLegends]]
+She/her. Signs her posts with her name. Lives in [[Taskforce Distortion]]. [[@FeatheredJohtoLegends]]
 
 #characters #legendary 
