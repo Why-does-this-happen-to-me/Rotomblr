@@ -2,6 +2,6 @@ She/her and he/him, bigender. Researches legendary pokemon in his off time, she 
 - ⚡: Sparky (She also likes using Yellow for her text.)
 - 🐱: Espie (He likes using Purple for his text (He doesn't like pink))
 - 🦎: Riptor (He likes using Green for his text.
-Lives in [[Lynda's universe]]. [[@TrainerLynda]]
+Seems to be [[Shadow]]. Lives in [[Lynda's universe]]. [[@TrainerLynda]]
 
 #characters 
