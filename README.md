@@ -40,7 +40,7 @@ These connect  everything and have some basic info*</td>
 </tbody>
 </table>
 
-*Some characters, even thought it's just Arceus right now, will have a number next to their name to distinguish them from others, as they are stablished characters with muliple iterations across rotomblr.
+*Some characters, even thought it's just Arceus right now, will have a number next to their name to distinguish them from others, as they are established characters with multiple iterations across rotomblr.
 I would like to come up with a better solution, but until that happens this will be the system used.
 
 **Right now there is only one, mostly to try to see how I could do it. The names of all participants in the event have a // next to them so the nodes won't connect in the graph to keep it cleaner.

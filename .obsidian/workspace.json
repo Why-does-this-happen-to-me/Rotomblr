@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "rotomblr/characters/Bronze.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "rotomblr/characters/Bronze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "rotomblr/characters/Bronze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "rotomblr/characters/Bronze.md"
               }
             }
           },
@@ -174,12 +174,23 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Cassandra.md",
+    "rotomblr/characters/Bronze.md",
+    "rotomblr/characters/Jemie.md",
+    "rotomblr/characters/Archie.md",
+    "rotomblr/characters/Maxie.md",
+    "rotomblr/organizations/Chaos kids.md",
+    "rotomblr/organizations/7tail Exploration.md",
+    "rotomblr/organizations/Taskforce Distortion.md",
+    "rotomblr/universes/Taskforce Distortion's universe.md",
+    "rotomblr/accounts/@Chaosfankids.md",
+    "rotomblr/characters/Marianne.md",
+    "README.md",
     "rotomblr/accounts/@Mysterious-Skies.md",
     "rotomblr/characters/Violet.md",
     "rotomblr/characters/Myron.md",
     "rotomblr/characters/Apricot.md",
     "rotomblr/accounts/@Singing-Deserts.md",
-    "Marianne.md",
     "rotomblr/accounts/Ichika.md",
     "rotomblr/accounts/@DragonsAreOverrated2.md",
     "rotomblr/accounts/@TimeTravelerPyrite.md",
@@ -189,17 +200,6 @@
     "rotomblr/characters/Silver.md",
     "rotomblr/Universes with rotomblr.md",
     "rotomblr/Universes without rotomblr.md",
-    "rotomblr/Multiverse.md",
-    "rotomblr/accounts/@SilveredFeathers.md",
-    "rotomblr/characters/Oblivion.md",
-    "rotomblr/accounts/@ObliviontheGiratina.md",
-    "rotomblr/accounts/@TrainerLynda.md",
-    "rotomblr/accounts/@longing-for-a-perfect-world.md",
-    "rotomblr/characters/Cyrus-paldea.md",
-    "rotomblr/universes/Arven's universe.md",
-    "rotomblr/characters/Arven.md",
-    "rotomblr/accounts/@captain-mommy-issues.md",
-    "CONTRIBUTING.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
