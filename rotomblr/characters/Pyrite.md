@@ -1,1 +1,1 @@
-He/him, doesn't mind she/her, newly found out he likes pup/pupself too. 
+He/him, doesn't mind she/her, newly found out he likes pup/pupself too. Trying to get used to staying in one place, used to move a lot to run away from 
