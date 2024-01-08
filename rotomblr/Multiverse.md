@@ -1,4 +1,4 @@
 
-Were every universe exist.
+Where every universe exist.
 
 #universes 

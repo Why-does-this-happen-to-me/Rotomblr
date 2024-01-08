@@ -1,0 +1,1 @@
+He/him, doesn't mind she/her, newly found out he likes pup/pupself too. 
