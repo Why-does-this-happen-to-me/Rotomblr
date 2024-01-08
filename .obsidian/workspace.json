@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Pyrite.md",
+                "file": "rotomblr/accounts/Ichika.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Pyrite.md",
+                "file": "rotomblr/accounts/Ichika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Pyrite.md",
+                "file": "rotomblr/accounts/Ichika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Pyrite.md"
+                "file": "rotomblr/accounts/Ichika.md"
               }
             }
           },
@@ -174,11 +174,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/Ichika.md",
+    "rotomblr/accounts/@TimeTravelerPyrite.md",
+    "rotomblr/characters/Pyrite.md",
     "rotomblr/universes/Lynda's universe.md",
     "rotomblr/characters/Lynda.md",
     "rotomblr/characters/Silver.md",
     "rotomblr/Universes with rotomblr.md",
-    "rotomblr/characters/Pyrite.md",
     "rotomblr/Universes without rotomblr.md",
     "rotomblr/Multiverse.md",
     "rotomblr/accounts/@SilveredFeathers.md",
@@ -198,8 +200,6 @@
     "rotomblr/characters/Arceus 1.md",
     "rotomblr/characters/Rose.md",
     "rotomblr/characters/Agent Hellion.md",
-    "rotomblr/characters/Agent Geode.md",
-    "rotomblr/characters/Agent Omni.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
