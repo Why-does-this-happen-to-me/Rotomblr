@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Colanda.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Colanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Colanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Colanda.md"
+              }
             }
           },
           {
@@ -166,6 +174,15 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/universes/Matt's world.md",
+    "rotomblr/characters/Colanda.md",
+    "rotomblr/universes/Monet's universe.md",
+    "rotomblr/universes/provisional number marvel universe.md",
+    "rotomblr/universes/Return to sender's world.md",
+    "rotomblr/universes/Roses's Hisui.md",
+    "rotomblr/universes/Roshar.md",
+    "rotomblr/universes/Shattered Wall's universe.md",
+    "rotomblr/universes/Splatoon's world.md",
     "rotomblr/characters/Rose.md",
     "rotomblr/characters/Arceus 1.md",
     "rotomblr/characters/Corentin.md",
@@ -183,15 +200,6 @@
     "rotomblr/characters/Violet.md",
     "rotomblr/characters/Gold Hunter.md",
     "rotomblr/characters/Silver Hunter.md",
-    "rotomblr/characters/Silver.md",
-    "rotomblr/characters/Pyrite.md",
-    "rotomblr/characters/Oblivion.md",
-    "rotomblr/characters/Myron.md",
-    "rotomblr/characters/Marianne.md",
-    "rotomblr/characters/Lynda.md",
-    "rotomblr/organizations/Chaos kids.md",
-    "rotomblr/characters/Jemie.md",
-    "rotomblr/accounts/Ichika.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",

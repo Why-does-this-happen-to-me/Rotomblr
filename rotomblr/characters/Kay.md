@@ -1,3 +1,3 @@
-She/they, faller from [[Splatoon`s world]]. [[@signedarollermain]]
+She/they, faller from [[Splatoon's world]]. [[@signedarollermain]]
 
 #characters 
