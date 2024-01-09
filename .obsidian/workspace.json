@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Possessing Colress.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lives in task",
+                "query": "rosha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Possessing Colress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Possessing Colress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Possessing Colress.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,6 +167,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/universes/Roshar.md",
+    "rotomblr/universes/provisional number marvel universe.md",
+    "rotomblr/characters/Matt Murdock.md",
     "rotomblr/characters/Possessing Colress.md",
     "rotomblr/characters/Colanda.md",
     "rotomblr/universes/Possessed Colress's universe.md",
@@ -187,10 +183,8 @@
     "rotomblr/universes/Colanda's universe.md",
     "rotomblr/universes/Matt's world.md",
     "rotomblr/universes/Monet's universe.md",
-    "rotomblr/universes/provisional number marvel universe.md",
     "rotomblr/universes/Return to sender's world.md",
     "rotomblr/universes/Roses's Hisui.md",
-    "rotomblr/universes/Roshar.md",
     "rotomblr/universes/Shattered Wall's universe.md",
     "rotomblr/universes/Splatoon's world.md",
     "rotomblr/characters/Rose.md",
@@ -199,7 +193,6 @@
     "rotomblr/characters/Mari.md",
     "rotomblr/characters/Maple.md",
     "rotomblr/accounts/@confusedandconfuzzled.md",
-    "rotomblr/universes/Maple's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
