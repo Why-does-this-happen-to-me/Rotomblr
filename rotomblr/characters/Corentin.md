@@ -1,0 +1,3 @@
+He/him. Seems to be some kind of being whose reality is controlled by the information he receives. His best friend is [[Mari]], and he evolved by accident. Given that his reality is always changing, I'll link his [intro post](https://www.tumblr.com/adverse-imaginative/738281282420834304/hello-my-name-is-corentin-im-a-shiny-male?source=share). He can travel to other universes, so I'll link the [[List of universes where Corentin has been]]. His home is a cozy burrow on Route 6 in [[Maple's universe]]. [[@imaginary-adversary]]
+
+#characters #deities? 
