@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Maple.md",
+                "file": "rotomblr/characters/Corentin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Maple.md",
+                "file": "rotomblr/characters/Corentin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Maple.md",
+                "file": "rotomblr/characters/Corentin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Maple.md"
+                "file": "rotomblr/characters/Corentin.md"
               }
             }
           },
@@ -174,11 +174,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/universes/Maple's universe.md",
-    "rotomblr/characters/Maple.md",
-    "rotomblr/characters/Corentin.md",
-    "rotomblr/universes/List of universes where Corentin has been.md",
     "rotomblr/characters/Mari.md",
+    "rotomblr/characters/Corentin.md",
+    "rotomblr/characters/Maple.md",
+    "rotomblr/accounts/@confusedandconfuzzled.md",
+    "rotomblr/universes/Maple's universe.md",
+    "rotomblr/accounts/@adverse-imaginative.md",
+    "rotomblr/universes/List of universes where Corentin has been.md",
     "rotomblr/universes/List of universes where Mari has been.md",
     "rotomblr/accounts/@imaginary-adversary.md",
     "rotomblr/characters/Shadow.md",
@@ -198,8 +200,6 @@
     "rotomblr/accounts/Ichika.md",
     "rotomblr/characters/Lugia.md",
     "rotomblr/characters/Ho-oh.md",
-    "rotomblr/universes/Matt's world.md",
-    "rotomblr/universes/Lynda's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
