@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Corentin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Corentin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Corentin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Corentin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,10 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Mari.md",
+    "rotomblr/characters/Rose.md",
+    "rotomblr/characters/Arceus 1.md",
     "rotomblr/characters/Corentin.md",
+    "rotomblr/characters/Mari.md",
     "rotomblr/characters/Maple.md",
     "rotomblr/accounts/@confusedandconfuzzled.md",
     "rotomblr/universes/Maple's universe.md",
@@ -198,8 +192,6 @@
     "rotomblr/organizations/Chaos kids.md",
     "rotomblr/characters/Jemie.md",
     "rotomblr/accounts/Ichika.md",
-    "rotomblr/characters/Lugia.md",
-    "rotomblr/characters/Ho-oh.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
