@@ -1,0 +1,1 @@
+He/him. Researches pokémon with the perspective that humankind is their potential. 
