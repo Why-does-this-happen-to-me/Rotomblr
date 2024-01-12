@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Obsidian.md",
+                "file": "rotomblr/characters/Sprite.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Obsidian.md",
+                "file": "rotomblr/characters/Sprite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Obsidian.md",
+                "file": "rotomblr/characters/Sprite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Obsidian.md"
+                "file": "rotomblr/characters/Sprite.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Obsidian.md",
     "rotomblr/characters/Colanda.md",
     "rotomblr/universes/Roshar.md",
     "rotomblr/universes/provisional number marvel universe.md",
@@ -200,7 +201,6 @@
     "rotomblr/characters/Corentin.md",
     "rotomblr/characters/Mari.md",
     "rotomblr/characters/Maple.md",
-    "rotomblr/accounts/@confusedandconfuzzled.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
