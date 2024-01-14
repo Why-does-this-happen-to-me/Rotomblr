@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "core",
+                "query": "kay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,6 +167,7 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Kay.md",
     "rotomblr/Universes with rotomblr.md",
     "rotomblr/Universes without rotomblr.md",
     "rotomblr/accounts/@signedarollermain.md",
@@ -191,7 +193,6 @@
     "rotomblr/universes/Monet's universe.md",
     "rotomblr/universes/Return to sender's world.md",
     "rotomblr/universes/Roses's Hisui.md",
-    "rotomblr/universes/Shattered Wall's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
