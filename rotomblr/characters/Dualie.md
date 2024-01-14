@@ -1,3 +1,3 @@
-Inkling faller from [[Splatoon's world]]. Lives in [[Shallahi's current world]] [[@averagedualies]]
+Inkling faller from [[Splatoon's world]]. Lives in [[Spider-people universe]] [[@averagedualies]]
 
 #characters #asked 

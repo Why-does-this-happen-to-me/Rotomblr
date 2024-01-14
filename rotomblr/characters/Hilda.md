@@ -1,3 +1,3 @@
-She/her, unovan trainer from [[Shallahi's current world]]. [[@breakneck-battle-buff]]
+She/her, unovan trainer from [[Spider-people universe]]. [[@breakneck-battle-buff]]
 
 #characters #asked 
