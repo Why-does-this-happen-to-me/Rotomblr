@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kay",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Brook.md",
+    "rotomblr/characters/Ceerty.md",
     "rotomblr/characters/Kay.md",
+    "rotomblr/characters/Ika.md",
+    "rotomblr/organizations/7tail Exploration.md",
+    "rotomblr/universes/7tail Exploration's original world.md",
+    "rotomblr/universes/Ika's original universe.md",
     "rotomblr/Universes with rotomblr.md",
     "rotomblr/Universes without rotomblr.md",
     "rotomblr/accounts/@signedarollermain.md",
@@ -187,12 +192,6 @@
     "rotomblr/accounts/@shiny-sear-extraordinaire.md",
     "rotomblr/accounts/@painfully-average-landa.md",
     "rotomblr/universes/another universe without pokemon.md",
-    "rotomblr/organizations/Taskforce Distortion.md",
-    "rotomblr/universes/Colanda's universe.md",
-    "rotomblr/universes/Matt's world.md",
-    "rotomblr/universes/Monet's universe.md",
-    "rotomblr/universes/Return to sender's world.md",
-    "rotomblr/universes/Roses's Hisui.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
