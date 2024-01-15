@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Clive.md",
+                "file": "rotomblr/characters/Penny.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Clive.md",
+                "file": "rotomblr/characters/Penny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Clive.md",
+                "file": "rotomblr/characters/Penny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Clive.md"
+                "file": "rotomblr/characters/Penny.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Arven.md",
     "rotomblr/characters/Clive.md",
+    "rotomblr/characters/Penny.md",
+    "rotomblr/accounts/@swagtastic-bougie-pompadour.md",
+    "rotomblr/characters/Arven.md",
     "rotomblr/Universes without rotomblr.md",
     "rotomblr/universes/Possessed Colress's universe.md",
     "rotomblr/characters/Possessing Colress.md",
@@ -198,8 +200,6 @@
     "rotomblr/characters/Araquanid man.md",
     "rotomblr/characters/Maple.md",
     "rotomblr/characters/Em.md",
-    "rotomblr/characters/Flare.md",
-    "rotomblr/universes/Flare's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
