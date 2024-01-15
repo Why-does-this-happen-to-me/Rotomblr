@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +164,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/universes/Lime's universe.md",
+    "rotomblr/characters/Lime.md",
+    "rotomblr/accounts/@limesbloggingtime.md",
+    "rotomblr/characters/Kieran.md",
+    "rotomblr/accounts/@sugirikieran.md",
     "rotomblr/characters/Emmet whose brother is lost.md",
     "rotomblr/characters/Juliana.md",
     "rotomblr/accounts/@i-am-emmet-real.md",
@@ -188,11 +192,6 @@
     "rotomblr/characters/Cyrus.md",
     "rotomblr/characters/Lucretia Minsk.md",
     "rotomblr/characters/Shallahi.md",
-    "rotomblr/characters/Dualie.md",
-    "rotomblr/universes/Shallahi's current world.md",
-    "rotomblr/characters/Hilda.md",
-    "rotomblr/characters/Marla.md",
-    "rotomblr/characters/Snowflake.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
