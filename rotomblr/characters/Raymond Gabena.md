@@ -1,1 +1,1 @@
-He/him, I think. In charge of sorting the science classroom equipment
+He/him, I think. In charge of sorting the science classroom equipment and samples, also desings illegal rock candy.
