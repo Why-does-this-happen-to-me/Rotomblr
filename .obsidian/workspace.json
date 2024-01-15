@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Raymond Gabena.md",
+                "file": "rotomblr/characters/Beatrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Raymond Gabena.md",
+                "file": "rotomblr/characters/Beatrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Raymond Gabena.md",
+                "file": "rotomblr/characters/Beatrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Raymond Gabena.md"
+                "file": "rotomblr/characters/Beatrix.md"
               }
             }
           },
@@ -174,13 +174,16 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/organizations/Blueberry science club cartel.md",
     "rotomblr/characters/Raymond Gabena.md",
-    "rotomblr/universes/BBSCC's universe.md",
+    "rotomblr/characters/Beatrix.md",
+    "rotomblr/characters/Penny.md",
+    "rotomblr/organizations/Blueberry science club cartel.md",
+    "rotomblr/accounts/@blueberryscienceclubcartel.md",
     "rotomblr/characters/Juliana.md",
+    "rotomblr/universes/Juliana's universe.md",
+    "rotomblr/universes/BBSCC's universe.md",
     "rotomblr/universes/@a-girl-and-her-robo-dog.md",
     "rotomblr/characters/Emmet.md",
-    "rotomblr/characters/Penny.md",
     "rotomblr/characters/Clive.md",
     "rotomblr/accounts/@swagtastic-bougie-pompadour.md",
     "rotomblr/characters/Arven.md",
@@ -197,9 +200,6 @@
     "rotomblr/characters/Snowflake.md",
     "rotomblr/accounts/@shallahi-and-snowflake.md",
     "rotomblr/characters/Cd.md",
-    "rotomblr/universes/Spider-people universe.md",
-    "rotomblr/universes/Matt's world.md",
-    "rotomblr/characters/Matt Murdock.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
