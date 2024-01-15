@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Clive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Clive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Clive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Clive.md"
+              }
             }
           },
           {
@@ -166,6 +174,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Arven.md",
+    "rotomblr/characters/Clive.md",
+    "rotomblr/Universes without rotomblr.md",
     "rotomblr/universes/Possessed Colress's universe.md",
     "rotomblr/characters/Possessing Colress.md",
     "rotomblr/characters/Cyrus.md",
@@ -189,9 +200,6 @@
     "rotomblr/characters/Em.md",
     "rotomblr/characters/Flare.md",
     "rotomblr/universes/Flare's universe.md",
-    "rotomblr/accounts/@blueflare7pkmn.md",
-    "rotomblr/characters/Brook.md",
-    "rotomblr/characters/Ceerty.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
