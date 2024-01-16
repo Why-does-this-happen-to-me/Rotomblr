@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Voir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Voir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Voir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Voir.md"
+              }
             }
           },
           {
@@ -166,6 +174,12 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/@voirs-fortunes.md",
+    "rotomblr/characters/Voir.md",
+    "rotomblr/characters/Renée.md",
+    "rotomblr/accounts/@normal-paldean-student.md",
+    "rotomblr/events/Ella's wedding.md",
+    "rotomblr/characters/Ella.md",
     "rotomblr/universes/Lime's universe.md",
     "rotomblr/characters/Lime.md",
     "rotomblr/accounts/@limesbloggingtime.md",
@@ -186,12 +200,6 @@
     "rotomblr/characters/Clive.md",
     "rotomblr/accounts/@swagtastic-bougie-pompadour.md",
     "rotomblr/characters/Arven.md",
-    "rotomblr/Universes without rotomblr.md",
-    "rotomblr/universes/Possessed Colress's universe.md",
-    "rotomblr/characters/Possessing Colress.md",
-    "rotomblr/characters/Cyrus.md",
-    "rotomblr/characters/Lucretia Minsk.md",
-    "rotomblr/characters/Shallahi.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
