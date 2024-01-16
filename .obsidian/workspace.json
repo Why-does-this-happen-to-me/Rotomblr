@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Sepia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Sepia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Sepia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Voir.md"
+                "file": "rotomblr/characters/Sepia.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/accounts/@voirs-fortunes.md",
     "rotomblr/characters/Voir.md",
+    "rotomblr/characters/Sepia.md",
+    "rotomblr/accounts/@voirs-fortunes.md",
     "rotomblr/characters/Renée.md",
     "rotomblr/accounts/@normal-paldean-student.md",
     "rotomblr/events/Ella's wedding.md",
@@ -199,7 +200,6 @@
     "rotomblr/characters/Emmet.md",
     "rotomblr/characters/Clive.md",
     "rotomblr/accounts/@swagtastic-bougie-pompadour.md",
-    "rotomblr/characters/Arven.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
