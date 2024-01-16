@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/accounts/@isekai-wa-owari.md",
+                "file": "rotomblr/universes/Amalia's universe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/accounts/@isekai-wa-owari.md",
+                "file": "rotomblr/universes/Amalia's universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/accounts/@isekai-wa-owari.md",
+                "file": "rotomblr/universes/Amalia's universe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/accounts/@isekai-wa-owari.md"
+                "file": "rotomblr/universes/Amalia's universe.md"
               }
             }
           },
@@ -174,8 +174,11 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Caster of Wittenberg.md",
+    "rotomblr/characters/Amalia.md",
+    "rotomblr/universes/Amalia's universe.md",
+    "rotomblr/accounts/@wearethebladegang.md",
     "rotomblr/accounts/@isekai-wa-owari.md",
+    "rotomblr/characters/Caster of Wittenberg.md",
     "rotomblr/universes/Caster of Wittenberg's universe.md",
     "rotomblr/characters/Sepia.md",
     "rotomblr/characters/Voir.md",
@@ -197,9 +200,6 @@
     "rotomblr/characters/Penny.md",
     "rotomblr/organizations/Blueberry science club cartel.md",
     "rotomblr/accounts/@blueberryscienceclubcartel.md",
-    "rotomblr/universes/Juliana's universe.md",
-    "rotomblr/universes/BBSCC's universe.md",
-    "rotomblr/universes/@a-girl-and-her-robo-dog.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
