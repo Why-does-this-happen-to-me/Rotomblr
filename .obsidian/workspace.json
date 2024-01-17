@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Arson.md",
+                "file": "rotomblr/characters/Max.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Arson.md",
+                "file": "rotomblr/characters/Max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Arson.md",
+                "file": "rotomblr/characters/Max.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Arson.md"
+                "file": "rotomblr/characters/Max.md"
               }
             }
           },
@@ -175,7 +175,7 @@
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
     "rotomblr/accounts/@arson-but-with-a-moltres.md",
-    "rotomblr/characters/Arson.md",
+    "rotomblr/characters/Max.md",
     "rotomblr/characters/Cole.md",
     "rotomblr/universes/Cole's universe.md",
     "rotomblr/accounts/@emo-gym-leader-from-galar.md",
