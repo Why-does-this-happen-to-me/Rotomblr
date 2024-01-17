@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Colanda.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Colanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Colanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Colanda.md"
+              }
             }
           },
           {
@@ -166,6 +174,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Good Colress.md",
+    "rotomblr/characters/Possessing Colress.md",
+    "rotomblr/characters/Colanda.md",
     "rotomblr/characters/Sword.md",
     "rotomblr/accounts/@sword-of-injustice.md",
     "rotomblr/characters/Audra Fulgora Rain.md",
@@ -189,9 +200,6 @@
     "rotomblr/accounts/@limesbloggingtime.md",
     "rotomblr/characters/Kieran.md",
     "rotomblr/accounts/@sugirikieran.md",
-    "rotomblr/characters/Emmet whose brother is lost.md",
-    "rotomblr/characters/Juliana.md",
-    "rotomblr/accounts/@i-am-emmet-real.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
