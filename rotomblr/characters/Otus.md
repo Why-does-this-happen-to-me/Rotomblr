@@ -1,3 +1,3 @@
-Shiny pansear owned by [[Colanda]]. Lives in [[Colanda's universe]]. [[@shiny-sear-extraordinaire]]
+Shiny pansear owned by [[Landa]]. Lives in [[Colanda's universe]]. [[@shiny-sear-extraordinaire]]
 
 #characters 
