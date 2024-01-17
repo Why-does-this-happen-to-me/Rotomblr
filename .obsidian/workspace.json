@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Gem anon.md",
+                "file": "rotomblr/characters/Arson.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Gem anon.md",
+                "file": "rotomblr/characters/Arson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Gem anon.md",
+                "file": "rotomblr/characters/Arson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Gem anon.md"
+                "file": "rotomblr/characters/Arson.md"
               }
             }
           },
@@ -175,11 +174,16 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/@arson-but-with-a-moltres.md",
+    "rotomblr/characters/Arson.md",
+    "rotomblr/characters/Cole.md",
+    "rotomblr/universes/Cole's universe.md",
+    "rotomblr/accounts/@emo-gym-leader-from-galar.md",
+    "rotomblr/characters/Gem anon.md",
     "rotomblr/characters/Zemenes.md",
     "rotomblr/universes/Symbol Specialty Shelter.md",
     "rotomblr/characters/PaigePolyxeni Papyrus.md",
     "rotomblr/accounts/@unown-sanctuary.md",
-    "rotomblr/characters/Gem anon.md",
     "rotomblr/accounts/@the-gem-anon.md",
     "rotomblr/characters/Landa.md",
     "rotomblr/characters/Possessing Colress.md",
@@ -196,11 +200,6 @@
     "@bottlecapsandotherthings.md",
     "rotomblr/accounts/@wearethebladegang.md",
     "rotomblr/universes/Caster of Wittenberg's universe.md",
-    "rotomblr/characters/Sepia.md",
-    "rotomblr/characters/Voir.md",
-    "rotomblr/accounts/@voirs-fortunes.md",
-    "rotomblr/characters/Renée.md",
-    "rotomblr/accounts/@normal-paldean-student.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
