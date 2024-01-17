@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/accounts/@sinnohstruggles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/accounts/@sinnohstruggles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/accounts/@sinnohstruggles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/accounts/@sinnohstruggles.md"
+              }
             }
           },
           {
@@ -166,6 +174,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Juniper Frost.md",
+    "rotomblr/accounts/@sinnohstruggles.md",
     "rotomblr/characters/Max.md",
     "rotomblr/accounts/@arson-but-with-a-moltres.md",
     "rotomblr/characters/Cole.md",
@@ -190,8 +200,6 @@
     "rotomblr/characters/Amalia.md",
     "rotomblr/universes/Amalia's universe.md",
     "@bottlecapsandotherthings.md",
-    "rotomblr/accounts/@wearethebladegang.md",
-    "rotomblr/universes/Caster of Wittenberg's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
