@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Vanilla.md",
+                "file": "rotomblr/characters/Tia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Vanilla.md",
+                "file": "rotomblr/characters/Tia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Vanilla.md",
+                "file": "rotomblr/characters/Tia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Vanilla.md"
+                "file": "rotomblr/characters/Tia.md"
               }
             }
           },
@@ -174,8 +174,11 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/accounts/@humming-pokemon-helpers.md",
+    "rotomblr/characters/Angie.md",
+    "rotomblr/characters/Tia.md",
+    "rotomblr/accounts/@unovan-businesswoman-angie.md",
     "rotomblr/characters/Vanilla.md",
+    "rotomblr/accounts/@humming-pokemon-helpers.md",
     "rotomblr/characters/Gray.md",
     "rotomblr/accounts/@friendball-irl.md",
     "rotomblr/accounts/@dream-friendball.md",
@@ -197,9 +200,6 @@
     "rotomblr/accounts/@arson-but-with-a-moltres.md",
     "rotomblr/characters/Cole.md",
     "rotomblr/universes/Cole's universe.md",
-    "rotomblr/accounts/@emo-gym-leader-from-galar.md",
-    "rotomblr/characters/Gem anon.md",
-    "rotomblr/characters/Zemenes.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",

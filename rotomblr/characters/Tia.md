@@ -1,0 +1,1 @@
+She/her, I think. Former Team Skull member, staying with [[Angie]] now. 
