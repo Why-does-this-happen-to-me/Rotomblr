@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Touya.md",
+                "file": "rotomblr/characters/Cerise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Touya.md",
+                "file": "rotomblr/characters/Cerise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Touya.md",
+                "file": "rotomblr/characters/Cerise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Touya.md"
+                "file": "rotomblr/characters/Cerise.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/universes/Touya's universe.md",
     "rotomblr/characters/Touya.md",
+    "rotomblr/universes/Touya's universe.md",
     "rotomblr/accounts/@touya-san.md",
     "rotomblr/events/Ella's wedding.md",
     "rotomblr/characters/Tia.md",
