@@ -1,1 +1,1 @@
-She/her. I have seen posts that suggest that this is not her first name, but I also have no idea when she could have mentioned the others, if at all. Guest teacher at Blueberry Academy.
+She/her.  Guest teacher at Blueberry Academy.
