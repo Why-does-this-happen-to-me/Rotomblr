@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Tula.md",
+                "file": "rotomblr/characters/Vanilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Tula.md",
+                "file": "rotomblr/characters/Vanilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Tula.md",
+                "file": "rotomblr/characters/Vanilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Tula.md"
+                "file": "rotomblr/characters/Vanilla.md"
               }
             }
           },
@@ -174,8 +174,14 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/accounts/@plasmaapologist.md",
+    "rotomblr/accounts/@humming-pokemon-helpers.md",
+    "rotomblr/characters/Vanilla.md",
+    "rotomblr/characters/Gray.md",
+    "rotomblr/accounts/@friendball-irl.md",
+    "rotomblr/accounts/@dream-friendball.md",
+    "rotomblr/accounts/@gray-friendball.md",
     "rotomblr/characters/Tula.md",
+    "rotomblr/accounts/@plasmaapologist.md",
     "rotomblr/characters/Anthea.md",
     "rotomblr/characters/Concordia.md",
     "rotomblr/accounts/@lovenpeace-pkmn.md",
@@ -194,12 +200,6 @@
     "rotomblr/accounts/@emo-gym-leader-from-galar.md",
     "rotomblr/characters/Gem anon.md",
     "rotomblr/characters/Zemenes.md",
-    "rotomblr/universes/Symbol Specialty Shelter.md",
-    "rotomblr/characters/PaigePolyxeni Papyrus.md",
-    "rotomblr/accounts/@unown-sanctuary.md",
-    "rotomblr/accounts/@the-gem-anon.md",
-    "rotomblr/characters/Landa.md",
-    "rotomblr/characters/Possessing Colress.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
