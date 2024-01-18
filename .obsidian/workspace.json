@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Anthea.md",
+                "file": "rotomblr/characters/Tula.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Anthea.md",
+                "file": "rotomblr/characters/Tula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Anthea.md",
+                "file": "rotomblr/characters/Tula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Anthea.md"
+                "file": "rotomblr/characters/Tula.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Concordia.md",
     "rotomblr/characters/Anthea.md",
+    "rotomblr/characters/Tula.md",
+    "rotomblr/characters/Concordia.md",
     "rotomblr/accounts/@lovenpeace-pkmn.md",
     "rotomblr/characters/Aurorava.md",
     "rotomblr/Universes with rotomblr.md",
@@ -199,7 +200,6 @@
     "rotomblr/characters/Landa.md",
     "rotomblr/characters/Possessing Colress.md",
     "rotomblr/characters/Good Colress.md",
-    "rotomblr/characters/Colanda Achroma.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
