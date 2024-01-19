@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Sparkles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Sparkles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Sparkles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Sparkles.md"
+              }
             }
           },
           {
@@ -166,6 +174,9 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/accounts/@yoylecake420.md",
+    "rotomblr/characters/Sparkles.md",
+    "rotomblr/universes/Sparkles' universe.md",
     "rotomblr/accounts/@wingsofachampion.md",
     "rotomblr/characters/Toedscool Femboy.md",
     "rotomblr/universes/Some version of Paldea.md",
@@ -189,9 +200,6 @@
     "rotomblr/accounts/@gray-friendball.md",
     "rotomblr/accounts/@plasmaapologist.md",
     "rotomblr/accounts/@lovenpeace-pkmn.md",
-    "rotomblr/characters/Aurorava.md",
-    "rotomblr/Universes with rotomblr.md",
-    "rotomblr/universes/Marcy's universe.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
