@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Archie(AMC).md",
+                "file": "rotomblr/characters/Kai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Archie(AMC).md",
+                "file": "rotomblr/characters/Kai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Archie(AMC).md",
+                "file": "rotomblr/characters/Kai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Archie(AMC).md"
+                "file": "rotomblr/characters/Kai.md"
               }
             }
           },
@@ -174,8 +174,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/organizations/Aqua-Magma Conservatory.md",
+    "rotomblr/characters/Nicky.md",
+    "rotomblr/characters/Kai.md",
+    "rotomblr/characters/Maxie(AMC).md",
     "rotomblr/characters/Archie(AMC).md",
+    "rotomblr/accounts/@aqua-magma-official.md",
+    "rotomblr/accounts/@landandseaunited.md",
+    "rotomblr/organizations/Aqua-Magma Conservatory.md",
     "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
     "rotomblr/organizations/Chaos kids.md",
     "rotomblr/organizations/7tail Exploration.md",
@@ -195,11 +200,6 @@
     "rotomblr/characters/Cerise.md",
     "rotomblr/characters/Touya.md",
     "rotomblr/universes/Touya's universe.md",
-    "rotomblr/accounts/@touya-san.md",
-    "rotomblr/events/Ella's wedding.md",
-    "rotomblr/characters/Tia.md",
-    "rotomblr/characters/Angie.md",
-    "rotomblr/characters/Vanilla.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
