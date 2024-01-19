@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Anne Boonchuy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Anne Boonchuy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Anne Boonchuy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Anne Boonchuy.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/Anne Boonchuy.md",
     "rotomblr/accounts/@team-ozone-official.md",
     "rotomblr/characters/Eris.md",
     "rotomblr/organizations/Team Ozone.md",
@@ -192,7 +201,6 @@
     "rotomblr/characters/Nicky.md",
     "rotomblr/characters/Maxie(AMC).md",
     "rotomblr/characters/Archie(AMC).md",
-    "rotomblr/accounts/@aqua-magma-official.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
