@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md",
+                "file": "rotomblr/characters/Archie(AMC).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md",
+                "file": "rotomblr/characters/Archie(AMC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md",
+                "file": "rotomblr/characters/Archie(AMC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md"
+                "file": "rotomblr/characters/Archie(AMC).md"
               }
             }
           },
@@ -174,8 +174,13 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/accounts/@last-lorekeeper.md",
+    "rotomblr/organizations/Aqua-Magma Conservatory.md",
+    "rotomblr/characters/Archie(AMC).md",
+    "rotomblr/organizations/taskforce distorsion's divisions/Magma division.md",
+    "rotomblr/organizations/Chaos kids.md",
+    "rotomblr/organizations/7tail Exploration.md",
     "rotomblr/characters/Zinnia.md",
+    "rotomblr/accounts/@last-lorekeeper.md",
     "rotomblr/characters/Mare Birch.md",
     "rotomblr/accounts/@aura-acolyte.md",
     "rotomblr/universes/Universe 2014Δ.md",
@@ -195,11 +200,6 @@
     "rotomblr/characters/Tia.md",
     "rotomblr/characters/Angie.md",
     "rotomblr/characters/Vanilla.md",
-    "rotomblr/characters/Gray.md",
-    "rotomblr/characters/Tula.md",
-    "rotomblr/characters/Anthea.md",
-    "rotomblr/characters/Concordia.md",
-    "rotomblr/accounts/@unovan-businesswoman-angie.md",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
