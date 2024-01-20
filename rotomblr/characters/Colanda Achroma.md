@@ -1,3 +1,3 @@
-She/her, currently possessing a robot because her and her sister/multiversal variant [[Colanda]] shared a body for a while. Lives in [[Colanda's universe]]. [[@painfully-average-landa]]
+She/her, Kyurem's chosen. Lives in Unova in [[Colanda's universe]] with her father, [[Colress]]. Comes from [[another universe without pokemon]]. [[@violet-flower-without-color]]
 
 #characters 
