@@ -1,3 +1,3 @@
 He/him. Leader of [[Team Ozone]]. [[@team-ozone-official]]
 
-#characters 
+#characters #evil 

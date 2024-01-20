@@ -1,3 +1,3 @@
-A blind superhero from [[provisional number marvel universe]]. Living in [[Spider-people universe]]. [[@devilofcastelia]]
+A blind ~~superhero~~ lawyer from [[provisional number marvel universe]]. Living in [[Spider-people universe]]. [[@devilofcastelia]]
 
 #characters 

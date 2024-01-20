@@ -11,8 +11,12 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Nicky.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Nicky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Nicky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Nicky.md"
+              }
             }
           },
           {
@@ -166,32 +174,33 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
-    "rotomblr/characters/Colanda Achroma.md",
-    "rotomblr/universes/Colanda's universe.md",
-    "rotomblr/characters/Colress.md",
-    "rotomblr/accounts/@violet-flower-without-color.md",
-    "rotomblr/accounts/@shiny-sear-extraordinaire.md",
-    "rotomblr/characters/Otus.md",
-    "rotomblr/characters/Paige Polyxeni Papyrus.md",
-    "rotomblr/characters/Anne Boonchuy.md",
-    "rotomblr/accounts/@team-ozone-official.md",
-    "rotomblr/characters/Eris.md",
-    "rotomblr/organizations/Team Ozone.md",
-    "rotomblr/universes/Ozone world.md",
-    "rotomblr/Multiverse.md",
-    "rotomblr/organizations/Battle Frontier/Battle Tower.md",
-    "rotomblr/organizations/Battle Frontier",
-    "rotomblr/characters/Salon Maiden Anabel.md",
-    "rotomblr/accounts/@hoenn-battle-frontier-official.md",
-    "rotomblr/organizations/Hoenn Battle Frontier.md",
+    "rotomblr/characters/N.md",
+    "rotomblr/characters/Myron.md",
+    "rotomblr/characters/Mutt.md",
+    "rotomblr/characters/Monet.md",
+    "rotomblr/characters/Maxie(AMC).md",
+    "rotomblr/characters/Maxie.md",
+    "rotomblr/characters/Max.md",
+    "rotomblr/characters/Matt Murdock.md",
+    "rotomblr/characters/Matt.md",
+    "rotomblr/characters/Mars.md",
+    "rotomblr/characters/Marla.md",
+    "rotomblr/characters/Marianne.md",
+    "rotomblr/characters/Mari.md",
+    "rotomblr/characters/Marcy Wu.md",
+    "rotomblr/characters/Mare Birch.md",
+    "rotomblr/characters/Maple.md",
+    "rotomblr/characters/Lynda.md",
+    "rotomblr/characters/Lumi.md",
+    "rotomblr/characters/Lugia.md",
+    "rotomblr/characters/Lucretia Minsk.md",
+    "rotomblr/characters/Lisia.md",
+    "rotomblr/characters/Lime.md",
+    "rotomblr/characters/Lily.md",
     "rotomblr/characters/Latias.md",
-    "rotomblr/accounts/@themostspecialestlegendaryever.md",
-    "rotomblr/characters/Phoebe.md",
-    "rotomblr/accounts/@phantom-flower.md",
-    "rotomblr/characters/Ty.md",
-    "rotomblr/organizations/Hoenn TV.md",
-    "rotomblr/characters/Gabby.md",
-    "rotomblr/organizations/Shadow cafe.md",
+    "rotomblr/characters/Kuro.md",
+    "rotomblr/characters/Kieran.md",
+    "rotomblr/organizations/Battle Frontier",
     "rotomblr/organizations/taskforce distorsion's divisions",
     "rotomblr/organizations",
     "Sin título.canvas",
