@@ -4,6 +4,8 @@ This github repository contains every universe on rotomblr, as well as their inh
 
 ~~If you are not seeing something that is supposed to be here, then it's either that I haven't updated the gitfront thing or that I reached my limit rebuilding with it. In the second case I will have created another one of those things leading to the same repository and updated the link in my pinned post, so if you have the link saved somewhere and can't find newer additions, that's why.~~ I don't know why I insisted so much on it being private, but it doesn't matter. This is now public, so those problems won't happen again.
 
+The notes will have tags like faller or eeby_deeby in case you want to search for people like that. The colors won't change because of that in obsidian unless you give more priority to that group.
+
 This repository is separated in different folders located in the one named rotomblr:
 
 <table>
@@ -40,7 +42,7 @@ These connect  everything and have some basic info*</td>
 </tbody>
 </table>
 
-*Some characters, even thought it's just Arceus right now, will have a number next to their name to distinguish them from others, as they are established characters with multiple iterations across rotomblr.
+*Some characters, ~~even thought it's just Arceus right now~~, will have a number next to their name to distinguish them from others, as they are established characters with multiple iterations across rotomblr.
 I would like to come up with a better solution, but until that happens this will be the system used.
 
 **Right now there is only one, mostly to try to see how I could do it. The names of all participants in the event have a // next to them so the nodes won't connect in the graph to keep it cleaner.

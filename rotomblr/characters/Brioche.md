@@ -1,3 +1,3 @@
-[[Spidops-woman]]'s girlfriend and superhero The Hatterene. Hobgobling of that world. She/her, I think. [[@spidops-woman]]
+She/her, I think. [[Spidops-woman]]'s girlfriend and superhero The Hatterene. Hobgoblin of that world. [[@spidops-woman]]
 
-#characters #asked 
+#characters #asked #super_powers 

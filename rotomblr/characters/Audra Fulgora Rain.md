@@ -1,3 +1,3 @@
 Likes people using she/her for her. Seems to be some kind of being whose reality is controlled by the information she receives. Her best friend is [[Mari]], and she evolved by accident. Given that her reality is always changing, I'll link her [intro post](https://www.tumblr.com/adverse-imaginative/738281282420834304/hello-my-name-is-corentin-audra-fulgora-rain?source=share). She can travel to other universes, so I'll link the [[List of universes where Audra has been]]. Her home is a cozy burrow on Route 6 in [[Maple's universe]]. [[@adverse-imaginative]]
 
-#characters #deities? 
+#characters #deities? #super_powers 

@@ -9,4 +9,4 @@ Specializes in:
 
 Has her own account, linking to outside accounts of agents is not permitted however.
 
-#characters 
+#characters #super_powers <- unless she's a pokemon, it's difficult to know.

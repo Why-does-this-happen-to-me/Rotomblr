@@ -11,4 +11,4 @@ Specializes in:
 
 Has his own account, linking to outside accounts of agents is not permitted however.
 
-#characters 
+#characters #super_powers 

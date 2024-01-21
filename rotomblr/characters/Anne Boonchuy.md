@@ -1,3 +1,3 @@
-She/her. Appeared in a swamp and has made friends with pokemon with familiar names, mostly frogs. Can access [[Marcy Wu]]'s account while dreaming and can talk to pokemon, clearly because she is the heart. Writes in blue. Lives in [[Marcy's universe]]. [[@clumsy-klutzy-faller]]
+She/her. Appeared in a swamp and has made friends with pokemon with familiar names, mostly frogs. Can know what's happening to her friends and access their social media accounts while dreaming and can talk to pokemon, clearly because she is the heart. Lives in [[Marcy's universe]]. [[@clumsy-klutzy-faller]]
 
-#characters 
+#characters #faller #super_powers 
