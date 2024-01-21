@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#multiverse_researcher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,6 +167,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/characters/The cataloguer.md",
+    "rotomblr/characters/Keen.md",
     "README.md",
     "rotomblr/characters/Zinnia.md",
     "rotomblr/characters/Zemenes.md",
@@ -179,7 +182,6 @@
     "rotomblr/characters/Toedscool Femboy.md",
     "rotomblr/characters/Touya.md",
     "rotomblr/characters/Tia.md",
-    "rotomblr/characters/The cataloguer.md",
     "rotomblr/characters/Tabitha.md",
     "rotomblr/characters/Sword.md",
     "rotomblr/characters/Squid.md",
@@ -191,7 +193,6 @@
     "rotomblr/characters/Soda.md",
     "rotomblr/characters/Snowflake.md",
     "rotomblr/characters/Silver Hunter.md",
-    "rotomblr/characters/Silver.md",
     "rotomblr/universes/Lists",
     "rotomblr/organizations/Battle Frontier",
     "rotomblr/organizations/taskforce distorsion's divisions",

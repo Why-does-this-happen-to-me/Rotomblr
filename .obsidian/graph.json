@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#fourth_wall_breaker  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
       "query": "tag:#deities  ",
       "color": {
         "a": 1,
@@ -29,27 +36,6 @@
       }
     },
     {
-      "query": "tag:#characters  ",
-      "color": {
-        "a": 1,
-        "rgb": 11403519
-      }
-    },
-    {
-      "query": "tag:#eeby_deeby  ",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
-      "query": "tag:#fourth_wall_breaker  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "tag:#multiverse_traveler  ",
       "color": {
         "a": 1,
@@ -61,6 +47,20 @@
       "color": {
         "a": 1,
         "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#eeby_deeby  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
       }
     },
     {
@@ -102,6 +102,6 @@
   "repelStrength": 6.40474074074074,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.2274513852229031,
+  "scale": 0.1490940085136999,
   "close": true
 }
