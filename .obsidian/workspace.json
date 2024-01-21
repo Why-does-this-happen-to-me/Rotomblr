@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cola",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "248eb5b909d1dad9",
+  "active": "52f1d687f2ec09a8",
   "lastOpenFiles": [
     "rotomblr/organizations/Symbol Specialty Shelter.md",
     "rotomblr/universes/World without pokemon.md",
