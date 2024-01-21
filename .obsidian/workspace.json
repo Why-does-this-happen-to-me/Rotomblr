@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c74761d7c3722278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/organizations/Symbol Specialty Shelter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/organizations/Symbol Specialty Shelter.md",
+                "file": "rotomblr/universes/Lists/List of universes where Audra has been.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/organizations/Symbol Specialty Shelter.md",
+                "file": "rotomblr/universes/Lists/List of universes where Audra has been.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/organizations/Symbol Specialty Shelter.md"
+                "file": "rotomblr/universes/Lists/List of universes where Audra has been.md"
               }
             }
           },
@@ -185,8 +172,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c74761d7c3722278",
+  "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "rotomblr/organizations/Symbol Specialty Shelter.md",
     "rotomblr/universes/World without pokemon.md",
     "rotomblr/universes/world where crows are mythicals.md",
     "rotomblr/universes/Whatever world Cynthia is in right now.md",
@@ -198,7 +186,6 @@
     "rotomblr/universes/The Nexus Archive's world.md",
     "rotomblr/universes/The cataloguer's universe.md",
     "rotomblr/universes/Taskforce Distortion's universe.md",
-    "rotomblr/organizations/Symbol Specialty Shelter.md",
     "rotomblr/universes/Splatoon's world.md",
     "rotomblr/universes/Spider-people universe.md",
     "rotomblr/universes/Sparkles' universe.md",
