@@ -1,3 +1,3 @@
 Arceus in [[Roses's Hisui]]. [[@beanofjudgement]]
 
-#characters #deities #legendary 
+#characters #deities #legendary #pokemon 
