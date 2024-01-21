@@ -11,7 +11,7 @@
       "query": "tag:#asked  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 3391795
       }
     },
     {
@@ -50,10 +50,24 @@
       }
     },
     {
+      "query": "tag:#super_powers  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "tag:#eeby_deeby  ",
       "color": {
         "a": 1,
         "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#pokemon  ",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
       }
     },
     {
@@ -102,6 +116,6 @@
   "repelStrength": 6.40474074074074,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.1490940085136999,
+  "scale": 0.5293529964808722,
   "close": true
 }
