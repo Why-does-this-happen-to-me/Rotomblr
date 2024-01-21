@@ -11,12 +11,8 @@
             "id": "248eb5b909d1dad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Zinnia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Zinnia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Zinnia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,6 +166,8 @@
   },
   "active": "248eb5b909d1dad9",
   "lastOpenFiles": [
+    "README.md",
+    "rotomblr/characters/Zinnia.md",
     "rotomblr/characters/Zemenes.md",
     "rotomblr/characters/Yuki Hoshino.md",
     "rotomblr/characters/Voir.md",
@@ -198,8 +192,6 @@
     "rotomblr/characters/Snowflake.md",
     "rotomblr/characters/Silver Hunter.md",
     "rotomblr/characters/Silver.md",
-    "rotomblr/characters/Shelly.md",
-    "rotomblr/characters/Shattered Wall.md",
     "rotomblr/universes/Lists",
     "rotomblr/organizations/Battle Frontier",
     "rotomblr/organizations/taskforce distorsion's divisions",

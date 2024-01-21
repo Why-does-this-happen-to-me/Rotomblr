@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#universes  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "tag:#asked  ",
       "color": {
         "a": 1,
@@ -29,10 +22,45 @@
       }
     },
     {
+      "query": "tag:#multiverse_researcher  ",
+      "color": {
+        "a": 1,
+        "rgb": 3892012
+      }
+    },
+    {
       "query": "tag:#characters  ",
       "color": {
         "a": 1,
         "rgb": 11403519
+      }
+    },
+    {
+      "query": "tag:#eeby_deeby  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#fourth_wall_breaker  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#multiverse_traveler  ",
+      "color": {
+        "a": 1,
+        "rgb": 15921906
+      }
+    },
+    {
+      "query": "tag:#time_traveler  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     },
     {
@@ -55,6 +83,13 @@
         "a": 1,
         "rgb": 16741120
       }
+    },
+    {
+      "query": "tag:#universes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +102,6 @@
   "repelStrength": 6.40474074074074,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.5293529964808713,
+  "scale": 0.1490940085136998,
   "close": true
 }
