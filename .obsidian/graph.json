@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#asked  ",
@@ -106,16 +106,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 0.702808888888889,
   "lineSizeMultiplier": 0.498388148148148,
-  "collapse-forces": false,
-  "centerStrength": 0.141985185185185,
-  "repelStrength": 6.40474074074074,
+  "collapse-forces": true,
+  "centerStrength": 0.168533333333333,
+  "repelStrength": 8.22518518518519,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 0.8075580871541566,
+  "linkDistance": 77,
+  "scale": 0.3469900176106958,
   "close": true
 }
