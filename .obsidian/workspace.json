@@ -11,8 +11,12 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md"
+              }
             }
           },
           {
@@ -164,34 +172,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f74c1b16bcff9f6a",
+  "active": "f2f6e60ac99e693d",
   "lastOpenFiles": [
-    "rotomblr/characters/The Doctor.md",
-    "rotomblr/universes/Some doctor who universe.md",
-    "rotomblr/accounts/@doctormon.md",
-    "rotomblr/characters/Iron Dewpider.md",
-    "rotomblr/accounts/@iron-dewpider.md",
-    "rotomblr/characters/Lime.md",
-    "rotomblr/characters/Sword.md",
-    "rotomblr/Universes with rotomblr.md",
-    "rotomblr/Ultra Space.md",
-    "rotomblr/Multiverse.md",
-    "rotomblr/characters/Em.md",
-    "rotomblr/characters/Meta.md",
-    "rotomblr/characters/Joltik-guy.md",
-    "rotomblr/universes/Locasol region.md",
-    "rotomblr/accounts/@metaoflocasol.md",
-    "rotomblr/universes/Kirby's universe.md",
-    "rotomblr/characters/Magolor.md",
-    "rotomblr/accounts/@iam-emmet (maybe deleted).md",
-    "rotomblr/characters/The warden.md",
-    "rotomblr/characters/Akari.md",
-    "rotomblr/accounts/@thetraveleroftime.md",
-    "rotomblr/universes/Akari's universe.md",
-    "rotomblr/characters/Another Emmet whose brother is lost.md",
-    "rotomblr/accounts/@iam-emmet.md",
-    "rotomblr/characters/Emmet.md",
-    "rotomblr/characters/Emmet whose brother is lost.md",
+    "rotomblr/universes/Without rotomblr/another universe without pokemon.md",
+    "rotomblr/universes/Without rotomblr/Blackthorn's universe.md",
+    "rotomblr/universes/Without rotomblr/Ika's original universe.md",
+    "rotomblr/universes/Without rotomblr/Kappa's universe.md",
+    "rotomblr/universes/Without rotomblr/Kirby's universe.md",
+    "rotomblr/universes/Without rotomblr/provisional number marvel universe.md",
+    "rotomblr/universes/Without rotomblr/Roshar.md",
+    "rotomblr/universes/Without rotomblr/Shattered Wall's universe.md",
+    "rotomblr/universes/Without rotomblr/Some doctor who universe.md",
+    "rotomblr/universes/Without rotomblr/Splatoon's world.md",
+    "rotomblr/universes/Without rotomblr/World without pokemon.md",
+    "rotomblr/universes/Without rotomblr/Universe 57189.md",
+    "rotomblr/universes/With rotomblr/Whatever world Cynthia is in right now.md",
+    "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
+    "rotomblr/universes/With rotomblr/Universe paralel to Mart's.md",
+    "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
+    "rotomblr/universes/With rotomblr/Triangle's world.md",
+    "rotomblr/universes/With rotomblr/Touya's universe.md",
+    "rotomblr/universes/With rotomblr/The Nexus Archive's world.md",
+    "rotomblr/universes/With rotomblr/The cataloguer's universe.md",
+    "rotomblr/universes/With rotomblr/Taskforce Distortion's universe.md",
+    "rotomblr/universes/With rotomblr/Spider-people universe.md",
+    "rotomblr/universes/With rotomblr/Sparkles' universe.md",
+    "rotomblr/universes/With rotomblr/Some version of Paldea.md",
+    "rotomblr/universes/With rotomblr/Shape's universe.md",
+    "rotomblr/universes/With rotomblr/Roses's Hisui.md",
+    "rotomblr/universes/Without rotomblr",
+    "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
     "rotomblr/organizations/Battle Frontier",
     "rotomblr/organizations/taskforce distorsion's divisions",
@@ -201,8 +211,6 @@
     "rotomblr/events",
     "rotomblr/Nueva carpeta",
     "rotomblr/universes",
-    "rotomblr/Nuevo acceso directo.lnk",
-    "rotomblr/characters",
     "rotomblr/Sin título.canvas"
   ]
 }
