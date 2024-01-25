@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
+                "file": "rotomblr/characters/Chili.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
+                "file": "rotomblr/characters/Chili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
+                "file": "rotomblr/characters/Chili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md"
+                "file": "rotomblr/characters/Chili.md"
               }
             }
           },
@@ -172,8 +172,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2f6e60ac99e693d",
+  "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/accounts/@seared-and-incinerated.md",
+    "rotomblr/characters/Chili.md",
+    "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
     "rotomblr/universes/Without rotomblr/another universe without pokemon.md",
     "rotomblr/universes/Without rotomblr/Blackthorn's universe.md",
     "rotomblr/universes/Without rotomblr/Ika's original universe.md",
@@ -197,9 +200,6 @@
     "rotomblr/universes/With rotomblr/Taskforce Distortion's universe.md",
     "rotomblr/universes/With rotomblr/Spider-people universe.md",
     "rotomblr/universes/With rotomblr/Sparkles' universe.md",
-    "rotomblr/universes/With rotomblr/Some version of Paldea.md",
-    "rotomblr/universes/With rotomblr/Shape's universe.md",
-    "rotomblr/universes/With rotomblr/Roses's Hisui.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
