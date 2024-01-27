@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Chili.md",
+                "file": "rotomblr/characters/Diving Bell.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "araq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Chili.md",
+                "file": "rotomblr/characters/Diving Bell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Chili.md",
+                "file": "rotomblr/characters/Diving Bell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Chili.md"
+                "file": "rotomblr/characters/Diving Bell.md"
               }
             }
           },
@@ -174,8 +175,9 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/@seared-and-incinerated.md",
+    "rotomblr/accounts/@the-diving-bell.md",
     "rotomblr/characters/Chili.md",
+    "rotomblr/accounts/@seared-and-incinerated.md",
     "rotomblr/universes/Without rotomblr/7tail Exploration's original world.md",
     "rotomblr/universes/Without rotomblr/another universe without pokemon.md",
     "rotomblr/universes/Without rotomblr/Blackthorn's universe.md",
@@ -199,7 +201,6 @@
     "rotomblr/universes/With rotomblr/The cataloguer's universe.md",
     "rotomblr/universes/With rotomblr/Taskforce Distortion's universe.md",
     "rotomblr/universes/With rotomblr/Spider-people universe.md",
-    "rotomblr/universes/With rotomblr/Sparkles' universe.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
