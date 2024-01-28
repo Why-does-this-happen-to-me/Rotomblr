@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Diving Bell.md",
+                "file": "rotomblr/characters/Nicki.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "araq",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Diving Bell.md",
+                "file": "rotomblr/characters/Nicki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Diving Bell.md",
+                "file": "rotomblr/characters/Nicki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Diving Bell.md"
+                "file": "rotomblr/characters/Nicki.md"
               }
             }
           },
@@ -175,6 +174,11 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/accounts/@paldea-champ-n1cki.md",
+    "rotomblr/characters/Nicki.md",
+    "rotomblr/universes/With rotomblr/Nicki's universe.md",
+    "rotomblr/characters/Nicky.md",
+    "rotomblr/characters/Diving Bell.md",
     "rotomblr/accounts/@the-diving-bell.md",
     "rotomblr/characters/Chili.md",
     "rotomblr/accounts/@seared-and-incinerated.md",
@@ -196,11 +200,6 @@
     "rotomblr/universes/With rotomblr/Universe paralel to Mart's.md",
     "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
     "rotomblr/universes/With rotomblr/Triangle's world.md",
-    "rotomblr/universes/With rotomblr/Touya's universe.md",
-    "rotomblr/universes/With rotomblr/The Nexus Archive's world.md",
-    "rotomblr/universes/With rotomblr/The cataloguer's universe.md",
-    "rotomblr/universes/With rotomblr/Taskforce Distortion's universe.md",
-    "rotomblr/universes/With rotomblr/Spider-people universe.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
