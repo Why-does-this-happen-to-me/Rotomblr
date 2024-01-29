@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/L.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lumi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Voir.md"
+                "file": "rotomblr/characters/L.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Voir.md",
     "rotomblr/characters/Gwendoline.md",
     "rotomblr/characters/Marcy Wu.md",
     "rotomblr/characters/Anne Boonchuy.md",
@@ -200,7 +201,6 @@
     "rotomblr/universes/Ultra Space.md",
     "rotomblr/characters/Nicki.md",
     "rotomblr/universes/With rotomblr/Nicki's universe.md",
-    "rotomblr/accounts/@paldea-champ-n1cki.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
