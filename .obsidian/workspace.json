@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Marcy Wu.md",
+                "file": "rotomblr/characters/Gwendoline.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marcy",
+                "query": "gwen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Marcy Wu.md",
+                "file": "rotomblr/characters/Gwendoline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Marcy Wu.md",
+                "file": "rotomblr/characters/Gwendoline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Marcy Wu.md"
+                "file": "rotomblr/characters/Gwendoline.md"
               }
             }
           },
@@ -175,10 +175,10 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Marcy Wu.md",
     "rotomblr/characters/Anne Boonchuy.md",
     "rotomblr/characters/Sasha Waybright.md",
     "rotomblr/universes/With rotomblr/Marcy's universe.md",
-    "rotomblr/characters/Marcy Wu.md",
     "rotomblr/characters/Sidon.md",
     "rotomblr/characters/Mare Birch.md",
     "rotomblr/characters/Colanda Achroma.md",
