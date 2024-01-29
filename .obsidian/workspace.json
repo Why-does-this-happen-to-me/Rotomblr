@@ -11,12 +11,8 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Nicki.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Nicki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Nicki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Nicki.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +165,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f74c1b16bcff9f6a",
+  "active": "52f1d687f2ec09a8",
   "lastOpenFiles": [
-    "rotomblr/universes/With rotomblr/Nicki's universe.md",
+    "rotomblr/characters/Gem anon.md",
+    "rotomblr/universes/Ultra Space.md",
     "rotomblr/characters/Nicki.md",
+    "rotomblr/universes/With rotomblr/Nicki's universe.md",
     "rotomblr/accounts/@paldea-champ-n1cki.md",
     "rotomblr/characters/Nicky.md",
     "rotomblr/characters/Diving Bell.md",
@@ -198,8 +193,6 @@
     "rotomblr/universes/With rotomblr/Whatever world Cynthia is in right now.md",
     "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
     "rotomblr/universes/With rotomblr/Universe paralel to Mart's.md",
-    "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
-    "rotomblr/universes/With rotomblr/Triangle's world.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
