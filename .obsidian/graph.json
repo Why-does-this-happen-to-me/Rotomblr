@@ -71,6 +71,13 @@
       }
     },
     {
+      "query": "tag:#chosen  ",
+      "color": {
+        "a": 1,
+        "rgb": 14805117
+      }
+    },
+    {
       "query": "tag:#characters  ",
       "color": {
         "a": 1,
@@ -116,6 +123,6 @@
   "repelStrength": 8.22518518518519,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.5293529964808791,
+  "scale": 0.22745138522290645,
   "close": true
 }
