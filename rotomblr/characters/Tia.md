@@ -1,3 +1,3 @@
-She/her, I think. Former Team Skull member, staying with [[Angie]] now. Lives in [[Spider-people universe]]. [[@unovan-businesswoman-angie]]
+She/her, I think. Former Team Skull member, staying with [[Angie]] now. Lives in [[Super-hero universe]]. [[@unovan-businesswoman-angie]]
 
 #characters 

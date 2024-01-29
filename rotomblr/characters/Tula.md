@@ -1,3 +1,3 @@
-She/her. Former plasma grunt, she is a registered pokemon nurse. Lives in [[Spider-people universe]]. [[@plasmaapologist]]
+She/her. Former plasma grunt, she is a registered pokemon nurse. Lives in [[Super-hero universe]]. [[@plasmaapologist]]
 
 #characters 

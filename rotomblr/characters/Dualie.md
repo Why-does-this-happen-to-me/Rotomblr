@@ -1,3 +1,3 @@
-Inkling faller from [[Splatoon's world]]. Lives in [[Spider-people universe]] [[@averagedualies]]
+Inkling faller from [[Splatoon's world]]. Lives in [[Super-hero universe]] [[@averagedualies]]
 
 #characters #asked #faller 

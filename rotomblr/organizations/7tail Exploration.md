@@ -1,3 +1,3 @@
-Team specialized in rescue and item retrieval. Located in [[Spider-people universe]].
+Team specialized in rescue and item retrieval. Located in [[Super-hero universe]].
 
 #organization

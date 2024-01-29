@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Professor Polaris.md",
+                "file": "rotomblr/characters/Professor H.P. Oracular.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Professor Polaris.md",
+                "file": "rotomblr/characters/Professor H.P. Oracular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Professor Polaris.md",
+                "file": "rotomblr/characters/Professor H.P. Oracular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Professor Polaris.md"
+                "file": "rotomblr/characters/Professor H.P. Oracular.md"
               }
             }
           },
@@ -174,8 +174,11 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/@newgrowthspaest.md",
+    "rotomblr/accounts/@prof-oracular.md",
+    "rotomblr/characters/Professor H.P. Oracular.md",
+    "rotomblr/universes/With rotomblr/Super-hero universe.md",
     "rotomblr/characters/Professor Polaris.md",
+    "rotomblr/accounts/@newgrowthspaest.md",
     "rotomblr/accounts/@prof-polaris.md",
     "rotomblr/characters/Voir.md",
     "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
@@ -197,9 +200,6 @@
     "rotomblr/characters/Alex.md",
     "rotomblr/accounts/@frog-pokemon-friend.md",
     "rotomblr/accounts/@water-pokemon-appreciator.md",
-    "rotomblr/characters/Flare.md",
-    "rotomblr/characters/Em.md",
-    "rotomblr/universes/With rotomblr/Flare's universe.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
