@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Professor Polaris.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Professor Polaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Voir.md",
+                "file": "rotomblr/characters/Professor Polaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Voir.md"
+                "file": "rotomblr/characters/Professor Polaris.md"
               }
             }
           },
@@ -173,12 +172,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/accounts/@newgrowthspaest.md",
+    "rotomblr/characters/Professor Polaris.md",
+    "rotomblr/accounts/@prof-polaris.md",
+    "rotomblr/characters/Voir.md",
     "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
     "rotomblr/characters/Mare Birch.md",
     "rotomblr/characters/L.md",
-    "rotomblr/characters/Voir.md",
     "rotomblr/characters/Gwendoline.md",
     "rotomblr/characters/Marcy Wu.md",
     "rotomblr/characters/Anne Boonchuy.md",
@@ -198,9 +200,6 @@
     "rotomblr/characters/Flare.md",
     "rotomblr/characters/Em.md",
     "rotomblr/universes/With rotomblr/Flare's universe.md",
-    "README.md",
-    "rotomblr/characters/Gem anon.md",
-    "rotomblr/universes/Ultra Space.md",
     "rotomblr/universes/Without rotomblr",
     "rotomblr/universes/With rotomblr",
     "rotomblr/universes/Lists",
