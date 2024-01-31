@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Professor H.P. Oracular.md",
+                "file": "rotomblr/characters/Sasha Waybright.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Professor H.P. Oracular.md",
+                "file": "rotomblr/characters/Sasha Waybright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Professor H.P. Oracular.md",
+                "file": "rotomblr/characters/Sasha Waybright.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Professor H.P. Oracular.md"
+                "file": "rotomblr/characters/Sasha Waybright.md"
               }
             }
           },
@@ -174,8 +175,8 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/@prof-oracular.md",
     "rotomblr/characters/Professor H.P. Oracular.md",
+    "rotomblr/accounts/@prof-oracular.md",
     "rotomblr/universes/With rotomblr/Super-hero universe.md",
     "rotomblr/characters/Professor Polaris.md",
     "rotomblr/accounts/@newgrowthspaest.md",
