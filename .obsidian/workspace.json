@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Sasha Waybright.md",
+                "file": "rotomblr/universes/With rotomblr/Marcy's universe.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Sasha Waybright.md",
+                "file": "rotomblr/universes/With rotomblr/Marcy's universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Sasha Waybright.md",
+                "file": "rotomblr/universes/With rotomblr/Marcy's universe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Sasha Waybright.md"
+                "file": "rotomblr/universes/With rotomblr/Marcy's universe.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Sasha Waybright.md",
     "rotomblr/characters/Professor H.P. Oracular.md",
     "rotomblr/accounts/@prof-oracular.md",
     "rotomblr/universes/With rotomblr/Super-hero universe.md",
@@ -188,7 +189,6 @@
     "rotomblr/characters/Gwendoline.md",
     "rotomblr/characters/Marcy Wu.md",
     "rotomblr/characters/Anne Boonchuy.md",
-    "rotomblr/characters/Sasha Waybright.md",
     "rotomblr/universes/With rotomblr/Marcy's universe.md",
     "rotomblr/characters/Sidon.md",
     "rotomblr/characters/Colanda Achroma.md",
