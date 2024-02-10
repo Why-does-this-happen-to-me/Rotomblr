@@ -1,0 +1,3 @@
+They worship Konzenyami, god of darkness, corruption and the abyss, as they say. I'm not going to read everything in their blog, but I looked at the firsts posts and it seems other people know their god. Those people don't seem to fear Konzenyami, so he's probably not that dangerous. Still, this is a cult, so caution is recommended when interacting with them. Located in [[Abyss universe]]. [[@cultoftheabyss]]
+
+#evil #organization #cult 

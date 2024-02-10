@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#cult  ",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
       "query": "tag:#asked  ",
       "color": {
         "a": 1,
@@ -123,6 +130,6 @@
   "repelStrength": 8.22518518518519,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.8075580871541688,
+  "scale": 0.3469900176106985,
   "close": true
 }
