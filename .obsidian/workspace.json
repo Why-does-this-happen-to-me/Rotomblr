@@ -11,8 +11,12 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Mart's universe/Zita.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Mart's universe/Zita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Mart's universe/Zita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Mart's universe/Zita.md"
+              }
             }
           },
           {
@@ -166,42 +174,42 @@
   },
   "active": "f2f6e60ac99e693d",
   "lastOpenFiles": [
-    "rotomblr/characters/Blackthorn.md",
-    "rotomblr/characters/Taskforce Distortion's universe",
-    "rotomblr/characters/Super-hero universe",
-    "rotomblr/characters/Mart's universe/Lily.md",
-    "rotomblr/characters/Mart's universe",
-    "rotomblr/characters/Yuki Hoshino.md",
-    "rotomblr/characters/Zemenes.md",
-    "rotomblr/accounts/Church of Eternatus' universe",
-    "rotomblr/accounts/Return to sender's world",
-    "rotomblr/accounts/Universe 57189",
-    "rotomblr/accounts/Whatever world Cynthia is in right now",
-    "rotomblr/accounts/Locasol region",
-    "rotomblr/accounts/Ozone world",
-    "rotomblr/accounts/Caster of Wittenberg's universe",
-    "rotomblr/characters/Akari.md",
-    "rotomblr/characters/Colanda Achroma.md",
-    "rotomblr/characters/Iron Dewpider.md",
-    "rotomblr/accounts/Lime's universe/@iron-dewpider.md",
-    "rotomblr/characters/Amalia.md",
-    "rotomblr/universes/With rotomblr/Amalia's universe.md",
-    "rotomblr/characters/Sparkles.md",
-    "rotomblr/universes/With rotomblr/Sparkles' universe.md",
-    "rotomblr/characters/Audra Fulgora Rain.md",
-    "rotomblr/accounts/Maple's universe/@adverse-imaginative.md",
-    "rotomblr/accounts/Sin título.md",
-    "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
-    "rotomblr/accounts/Wonderguard universe/@ledi-anon.md",
-    "rotomblr/characters/Vivillion.md",
-    "rotomblr/organizations/Cults/The wonderguard project.md",
-    "rotomblr/organizations/Cults/Team Fauna.md",
-    "rotomblr/organizations/Cults/Cult of the abyss.md",
-    "rotomblr/organizations/Cults/Church of Eternatus.md",
-    "rotomblr/universes/Lists/List of universes where Audra has been.md",
-    "rotomblr/universes/Lists/List of universes where Mari has been.md",
-    "rotomblr/universes/Superposition realm.md",
-    "rotomblr/accounts/Church of Eternatus' universe/@messengersofeternatus.md",
+    "rotomblr/characters/Universe 2014Δ/Zinnia.md",
+    "rotomblr/characters/Mart's universe/Zemenes.md",
+    "rotomblr/organizations/Symbol Specialty Shelter.md",
+    "rotomblr/characters/Monet's universe/Yuki Hoshino.md",
+    "rotomblr/characters/Mart's universe/Voir.md",
+    "rotomblr/characters/Wonderguard universe/Vivillion.md",
+    "rotomblr/characters/Wonderguard universe",
+    "rotomblr/characters/Taskforce Distortion's universe/Violet.md",
+    "rotomblr/characters/Super-hero universe/Vanilla.md",
+    "rotomblr/characters/Universe 2014Δ/Ty.md",
+    "rotomblr/organizations/Hoenn TV.md",
+    "rotomblr/characters/Super-hero universe/Tula.md",
+    "rotomblr/characters/Touya's universe/Touya.md",
+    "rotomblr/characters/Touya's universe",
+    "rotomblr/characters/Some version of Paldea/Toedscool Femboy.md",
+    "rotomblr/characters/Some version of Paldea",
+    "rotomblr/characters/Super-hero universe/Tia.md",
+    "rotomblr/characters/Akari's universe/The warden.md",
+    "rotomblr/characters/Lime's universe/The Doctor.md",
+    "rotomblr/characters/The cataloguer's universe/The cataloguer.md",
+    "rotomblr/characters/The cataloguer's universe",
+    "rotomblr/characters/Super-hero universe/Sword.md",
+    "rotomblr/characters/Triangle's world/Triangle.md",
+    "rotomblr/characters/Triangle's world/Square.md",
+    "rotomblr/characters/Triangle's world",
+    "rotomblr/characters/Sparkles' universe/Sparkles.md",
+    "rotomblr/characters/Sparkles' universe",
+    "rotomblr/characters/Taskforce Distortion's universe/Sodalite.md",
+    "rotomblr/characters/Splatoon's world/Soda.md",
+    "rotomblr/characters/Taskforce Distortion's universe/Silver Hunter.md",
+    "rotomblr/characters/Taskforce Distortion's universe/Gold Hunter.md",
+    "rotomblr/characters/Taskforce Distortion's universe/Silver.md",
+    "rotomblr/characters/Shattered Wall's universe",
+    "rotomblr/characters/Shape's universe",
+    "rotomblr/characters/Nicki's universe",
+    "rotomblr/characters/Monet's universe",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
