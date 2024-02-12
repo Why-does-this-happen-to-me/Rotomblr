@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "willo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/world where crows are mythicals.md"
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md"
               }
             }
           },
@@ -174,6 +175,7 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
     "rotomblr/universes/With rotomblr/Wonderguard universe.md",
     "rotomblr/universes/With rotomblr/Keen's dimension.md",
     "rotomblr/universes/With rotomblr/Juliana's universe.md",
@@ -206,7 +208,6 @@
     "rotomblr/accounts/Wonderguard universe/@fallenup.md",
     "rotomblr/characters/Mart's universe/Zita.md",
     "rotomblr/characters/Wonderguard universe/Sin título",
-    "rotomblr/characters/Universe 2014Δ/Zinnia.md",
     "rotomblr/characters/Wonderguard universe",
     "rotomblr/characters/Touya's universe",
     "rotomblr/characters/Some version of Paldea",
