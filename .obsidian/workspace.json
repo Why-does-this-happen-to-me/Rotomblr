@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Zita.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Zita.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Zita.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Zita.md"
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md"
               }
             }
           },
@@ -172,14 +172,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2f6e60ac99e693d",
+  "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/accounts/Wonderguard universe/@fallenup.md",
+    "rotomblr/characters/Wonderguard universe/Willow.md",
+    "rotomblr/characters/Wonderguard universe/Vivillion.md",
+    "rotomblr/characters/Mart's universe/Zita.md",
+    "rotomblr/characters/Wonderguard universe/Sin título",
     "rotomblr/characters/Universe 2014Δ/Zinnia.md",
     "rotomblr/characters/Mart's universe/Zemenes.md",
     "rotomblr/organizations/Symbol Specialty Shelter.md",
     "rotomblr/characters/Monet's universe/Yuki Hoshino.md",
     "rotomblr/characters/Mart's universe/Voir.md",
-    "rotomblr/characters/Wonderguard universe/Vivillion.md",
     "rotomblr/characters/Wonderguard universe",
     "rotomblr/characters/Taskforce Distortion's universe/Violet.md",
     "rotomblr/characters/Super-hero universe/Vanilla.md",
@@ -203,13 +207,9 @@
     "rotomblr/characters/Sparkles' universe",
     "rotomblr/characters/Taskforce Distortion's universe/Sodalite.md",
     "rotomblr/characters/Splatoon's world/Soda.md",
-    "rotomblr/characters/Taskforce Distortion's universe/Silver Hunter.md",
-    "rotomblr/characters/Taskforce Distortion's universe/Gold Hunter.md",
-    "rotomblr/characters/Taskforce Distortion's universe/Silver.md",
     "rotomblr/characters/Shattered Wall's universe",
     "rotomblr/characters/Shape's universe",
     "rotomblr/characters/Nicki's universe",
-    "rotomblr/characters/Monet's universe",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
