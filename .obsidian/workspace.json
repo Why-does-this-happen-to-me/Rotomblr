@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md"
+                "file": "rotomblr/characters/Wonderguard universe/Leo.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/Wonderguard universe/@fallenup.md",
+    "rotomblr/universes/With rotomblr/Wonderguard universe.md",
+    "rotomblr/characters/Wonderguard universe/Leo.md",
     "rotomblr/characters/Wonderguard universe/Willow.md",
+    "rotomblr/accounts/Wonderguard universe/@fallenup.md",
     "rotomblr/characters/Wonderguard universe/Vivillion.md",
     "rotomblr/characters/Mart's universe/Zita.md",
     "rotomblr/characters/Wonderguard universe/Sin título",
@@ -205,8 +207,6 @@
     "rotomblr/characters/Triangle's world",
     "rotomblr/characters/Sparkles' universe/Sparkles.md",
     "rotomblr/characters/Sparkles' universe",
-    "rotomblr/characters/Taskforce Distortion's universe/Sodalite.md",
-    "rotomblr/characters/Splatoon's world/Soda.md",
     "rotomblr/characters/Shattered Wall's universe",
     "rotomblr/characters/Shape's universe",
     "rotomblr/characters/Nicki's universe",
