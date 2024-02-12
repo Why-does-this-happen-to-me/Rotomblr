@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Gladion's universe/Piers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "last",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Gladion's universe/Piers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Gladion's universe/Piers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md"
+                "file": "rotomblr/characters/Gladion's universe/Piers.md"
               }
             }
           },
@@ -174,8 +174,22 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/universes/With rotomblr/Wonderguard universe.md",
+    "rotomblr/accounts/Gladion's universe/@suckerpunch-n-toxic.md",
+    "rotomblr/characters/Gladion's universe/Piers.md",
+    "rotomblr/characters/Gladion's universe/Leon.md",
+    "rotomblr/accounts/Gladion's universe/@g-max-wildfire.md",
+    "rotomblr/characters/Gladion's universe/Silver Sora.md",
+    "rotomblr/characters/Gladion's universe/Drayton Ryuujin.md",
+    "rotomblr/characters/Gladion's universe/Gladion.md",
+    "rotomblr/accounts/Gladion's universe/@silvallyandweavile.md",
+    "rotomblr/accounts/Gladion's universe/@arven-sada-turo.md",
+    "rotomblr/characters/Gladion's universe/Arven Sada Turo.md",
+    "rotomblr/accounts/Gladion's universe",
+    "rotomblr/universes/With rotomblr/Gladion's universe.md",
+    "rotomblr/characters/Gladion's universe",
     "rotomblr/characters/Wonderguard universe/Leo.md",
+    "rotomblr/universes/With rotomblr/Sin título",
+    "rotomblr/universes/With rotomblr/Wonderguard universe.md",
     "rotomblr/characters/Wonderguard universe/Willow.md",
     "rotomblr/accounts/Wonderguard universe/@fallenup.md",
     "rotomblr/characters/Wonderguard universe/Vivillion.md",
@@ -191,25 +205,11 @@
     "rotomblr/characters/Super-hero universe/Vanilla.md",
     "rotomblr/characters/Universe 2014Δ/Ty.md",
     "rotomblr/organizations/Hoenn TV.md",
-    "rotomblr/characters/Super-hero universe/Tula.md",
-    "rotomblr/characters/Touya's universe/Touya.md",
     "rotomblr/characters/Touya's universe",
-    "rotomblr/characters/Some version of Paldea/Toedscool Femboy.md",
     "rotomblr/characters/Some version of Paldea",
-    "rotomblr/characters/Super-hero universe/Tia.md",
-    "rotomblr/characters/Akari's universe/The warden.md",
-    "rotomblr/characters/Lime's universe/The Doctor.md",
-    "rotomblr/characters/The cataloguer's universe/The cataloguer.md",
     "rotomblr/characters/The cataloguer's universe",
-    "rotomblr/characters/Super-hero universe/Sword.md",
-    "rotomblr/characters/Triangle's world/Triangle.md",
-    "rotomblr/characters/Triangle's world/Square.md",
     "rotomblr/characters/Triangle's world",
-    "rotomblr/characters/Sparkles' universe/Sparkles.md",
     "rotomblr/characters/Sparkles' universe",
-    "rotomblr/characters/Shattered Wall's universe",
-    "rotomblr/characters/Shape's universe",
-    "rotomblr/characters/Nicki's universe",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
