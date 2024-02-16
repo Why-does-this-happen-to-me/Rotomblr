@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leo",
+                "query": "willo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md",
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Leo.md"
+                "file": "rotomblr/characters/Wonderguard universe/Willow.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Wonderguard universe/Leo.md",
     "rotomblr/characters/Wonderguard universe/Willow.md",
     "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
     "rotomblr/universes/With rotomblr/Wonderguard universe.md",
@@ -203,7 +204,6 @@
     "rotomblr/accounts/Gladion's universe/@arven-sada-turo.md",
     "rotomblr/accounts/Gladion's universe",
     "rotomblr/characters/Gladion's universe",
-    "rotomblr/characters/Wonderguard universe/Leo.md",
     "rotomblr/universes/With rotomblr/Sin título",
     "rotomblr/accounts/Wonderguard universe/@fallenup.md",
     "rotomblr/characters/Mart's universe/Zita.md",
