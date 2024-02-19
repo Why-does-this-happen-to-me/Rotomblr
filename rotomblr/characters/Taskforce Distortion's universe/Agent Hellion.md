@@ -1,4 +1,4 @@
-Works with [[Rocket division]] and [[Skull Division]]. She/her They/them.
+Works with [[Rocket division]] and [[Skull division]]. She/her They/them.
 
 Specializes in:
 - Acidic secretions from the hands (working on controlling)

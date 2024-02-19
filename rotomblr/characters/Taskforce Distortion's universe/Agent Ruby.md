@@ -1,4 +1,4 @@
-Works with [[Magma Division]]. He/it.
+Works with [[Magma division]]. He/it.
 
 Specializes in:
 - Calming most Pokemon with ease

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "willo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md",
+                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Wonderguard universe/Willow.md"
+                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md"
               }
             }
           },
@@ -175,8 +174,14 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/characters/Wonderguard universe/Leo.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Skull division.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Rocket division.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Plasma division.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Magma division.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Galactic division.md",
+    "rotomblr/organizations/taskforce distortion's divisions/Aqua division.md",
     "rotomblr/characters/Wonderguard universe/Willow.md",
+    "rotomblr/characters/Wonderguard universe/Leo.md",
     "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
     "rotomblr/universes/With rotomblr/Wonderguard universe.md",
     "rotomblr/universes/With rotomblr/Keen's dimension.md",
@@ -198,15 +203,9 @@
     "rotomblr/characters/Gladion's universe/Piers.md",
     "rotomblr/characters/Gladion's universe/Leon.md",
     "rotomblr/accounts/Gladion's universe/@g-max-wildfire.md",
-    "rotomblr/characters/Gladion's universe/Silver Sora.md",
-    "rotomblr/characters/Gladion's universe/Drayton Ryuujin.md",
-    "rotomblr/accounts/Gladion's universe/@silvallyandweavile.md",
-    "rotomblr/accounts/Gladion's universe/@arven-sada-turo.md",
     "rotomblr/accounts/Gladion's universe",
     "rotomblr/characters/Gladion's universe",
     "rotomblr/universes/With rotomblr/Sin título",
-    "rotomblr/accounts/Wonderguard universe/@fallenup.md",
-    "rotomblr/characters/Mart's universe/Zita.md",
     "rotomblr/characters/Wonderguard universe/Sin título",
     "rotomblr/characters/Wonderguard universe",
     "rotomblr/characters/Touya's universe",

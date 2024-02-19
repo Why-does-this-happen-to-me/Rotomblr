@@ -1,4 +1,4 @@
-Works with [[Star Division]], however they can help any of them. She/Her and They/Them
+Works with [[Star division]], however they can help any of them. She/Her and They/Them
 
 Specializes in:
 - Pro hacking

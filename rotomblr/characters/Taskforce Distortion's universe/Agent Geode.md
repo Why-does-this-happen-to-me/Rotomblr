@@ -1,4 +1,4 @@
-Works with [[Plasma division]], [[Magma division]], and [[Aqua Division]], but can be sent off with any. They/Them.
+Works with [[Plasma division]], [[Magma division]], and [[Aqua division]], but can be sent off with any. They/Them.
 
 Specializes in:
 - Pokemon speech
