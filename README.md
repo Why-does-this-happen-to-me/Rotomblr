@@ -1,6 +1,6 @@
 # Rotomblr Multiverse Graph
 
-This github repository contains every universe on rotomblr, as well as their inhabitants, catalogued by [@rotomblr-multiverse-cataloguer](https://www.tumblr.com/rotomblr-multiverse-cataloguer) on tumblr.
+This github repository will contain every universe on rotomblr, as well as their inhabitants, catalogued by [@rotomblr-multiverse-cataloguer](https://www.tumblr.com/rotomblr-multiverse-cataloguer) on tumblr.
 
 ~~If you are not seeing something that is supposed to be here, then it's either that I haven't updated the gitfront thing or that I reached my limit rebuilding with it. In the second case I will have created another one of those things leading to the same repository and updated the link in my pinned post, so if you have the link saved somewhere and can't find newer additions, that's why.~~ I don't know why I insisted so much on it being private, but it doesn't matter. This is now public, so those problems won't happen again.
 
@@ -42,8 +42,36 @@ These connect  everything and have some basic info*</td>
 </tbody>
 </table>
 
-*Some characters, ~~even thought it's just Arceus right now~~, will have a number next to their name to distinguish them from others, as they are established characters with multiple iterations across rotomblr.
-I would like to come up with a better solution, but until that happens this will be the system used.
+*~~Some characters, even thought it's just Arceus right now, will have a number next to their name to distinguish them from others, as they are established characters with multiple iterations across rotomblr.
+I would like to come up with a better solution, but until that happens this will be the system used.~~ Now I use folders to separate people and accounts into universes, so that problem doesn't happen anymore. I'll still try to keep the names different so it's easier to find what you are looking for.
 
 **Right now there is only one, mostly to try to see how I could do it. The names of all participants in the event have a // next to them so the nodes won't connect in the graph to keep it cleaner.
  If you wanted to look at it in Obsidian, just remove them and hover over the event node to highlight the nodes and edges related to that event.
+
+The organizations folder is separated in different sub-folders to find everything easily.
+
+ <table>
+<thead>
+<tr>
+<th>Sub-folder</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<td>Battle Frontier</td>
+<td>Pretty self-explanatory</td>
+</tr>
+<tr>
+<td>Cults</td>
+<td>They are in a folder so no one reads them without wanting</td>
+</tr>
+<tr>
+<td>Evil teams</td>
+<td>Evil teams</td>
+</tr>
+<tr>
+<td>taskforce distortion's divisions</td>
+<td>The different divisions in Taskforce Distortion</td>
+</tr>
+</tbody>
+</table>
