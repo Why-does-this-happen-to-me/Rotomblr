@@ -11,12 +11,8 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/organizations/taskforce distortion's divisions/Star division.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,43 +166,43 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Wonderguard universe/Sasha.md",
+    "rotomblr/characters/Wonderguard universe/Willow.md",
+    "rotomblr/characters/Eris's universe/Eris.md",
+    "rotomblr/accounts/Eris's universe/@devilisinthedeinos.md",
+    "rotomblr/accounts/Eris's universe",
+    "rotomblr/universes/With rotomblr/Eris's universe.md",
+    "rotomblr/characters/Eris's universe",
+    "rotomblr/characters/Crystal's universe/Crystal.md",
+    "rotomblr/accounts/Crystal's universe/@crystalclearribbons.md",
+    "rotomblr/accounts/Crystal's universe",
+    "rotomblr/universes/With rotomblr/Crystal's universe.md",
+    "rotomblr/characters/Another universe parallel to Mart's/Viv.md",
+    "rotomblr/characters/Crystal's universe",
+    "rotomblr/accounts/Another universe parallel to Mart's/@shinx-oh.md",
+    "rotomblr/accounts/Another universe parallel to Mart's",
+    "rotomblr/accounts/Mart's universe/@oh-shinx.md",
+    "rotomblr/characters/Mart's universe/Casey.md",
+    "rotomblr/characters/Another universe parallel to Mart's",
+    "rotomblr/characters/Sin título.md",
+    "rotomblr/organizations/Cults/Team Fauna.md",
+    "rotomblr/universes/With rotomblr/Another universe parallel to Mart's.md",
+    "rotomblr/accounts/Mart's universe/@bones-poison-and-pokemon.md",
+    "rotomblr/accounts/Mart's universe/@team-fauna (changed).md",
+    "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Skull division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Rocket division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Plasma division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Magma division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Galactic division.md",
     "rotomblr/organizations/taskforce distortion's divisions/Aqua division.md",
-    "rotomblr/characters/Wonderguard universe/Willow.md",
     "rotomblr/characters/Wonderguard universe/Leo.md",
     "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
-    "rotomblr/universes/With rotomblr/Wonderguard universe.md",
-    "rotomblr/universes/With rotomblr/Keen's dimension.md",
-    "rotomblr/universes/With rotomblr/Juliana's universe.md",
-    "rotomblr/universes/With rotomblr/Gladion's universe.md",
-    "rotomblr/universes/With rotomblr/Kerry Natar's universe.md",
-    "rotomblr/characters/Kerry Natar's universe/Kerry Natar.md",
-    "rotomblr/accounts/Kerry Natar's universe/@contest-winning-pest.md",
-    "rotomblr/characters/Gladion's universe/Hugh.md",
     "rotomblr/accounts/Kerry Natar's universe",
     "rotomblr/characters/Kerry Natar's universe",
-    "rotomblr/characters/Gladion's universe/Sarah.md",
-    "rotomblr/accounts/Gladion's universe/@ask-sarah-and-co.md",
-    "rotomblr/characters/Gladion's universe/Gladion.md",
-    "rotomblr/characters/Gladion's universe/Arven Sada Turo.md",
     "Sin título.canvas",
-    "rotomblr/accounts/Gladion's universe/@suckerpunch-n-toxic.md",
-    "rotomblr/characters/Wonderguard universe/Vivillion.md",
-    "rotomblr/characters/Gladion's universe/Piers.md",
-    "rotomblr/characters/Gladion's universe/Leon.md",
-    "rotomblr/accounts/Gladion's universe/@g-max-wildfire.md",
     "rotomblr/accounts/Gladion's universe",
     "rotomblr/characters/Gladion's universe",
-    "rotomblr/universes/With rotomblr/Sin título",
-    "rotomblr/characters/Wonderguard universe/Sin título",
-    "rotomblr/characters/Wonderguard universe",
-    "rotomblr/characters/Touya's universe",
-    "rotomblr/characters/Some version of Paldea",
-    "rotomblr/characters/The cataloguer's universe",
     "rotomblr/Sin título.canvas"
   ]
 }

@@ -1,4 +1,4 @@
 Apparently the founder's family came from another universe. Instead of trying to go back, Wolf Fauna created a cult that tries to transform the world he resides in in the one from the Animals™ world. He does it using a genetically engineered Celeby that can open portals to that universe. Everything that goes through the portal changes places with the equivalent from that world, including people. Located in [[Mart's universe]], as they kidnapped [[Sprite]] and forced him to go through the portal.
-Wolf, the leader, has been defeated, and the account is currently run by his son, Beedrill. [[@team-fauna]]
+Wolf, the leader, has been defeated, and the account is currently run by ~~his son,~~ [[Casey]]. [[@team-fauna (changed)]]
 
 #organization #evil #cult
