@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/eebies/Devland.md",
+                "file": "rotomblr/characters/eebies/Apple.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/eebies/Devland.md",
+                "file": "rotomblr/characters/eebies/Apple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/eebies/Devland.md",
+                "file": "rotomblr/characters/eebies/Apple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/eebies/Devland.md"
+                "file": "rotomblr/characters/eebies/Apple.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/eebies/@i-dont-have-the-spoons.md",
+    "rotomblr/accounts/eebies/@hammeragainstbirds.md",
+    "rotomblr/characters/eebies/Apple.md",
     "rotomblr/characters/eebies/Devland.md",
+    "rotomblr/accounts/eebies/@i-dont-have-the-spoons.md",
     "rotomblr/universes/Temporary eeby universe.md",
     "rotomblr/characters/eebies/Jo.md",
     "rotomblr/accounts/eebies/@dragalslay.md",
@@ -199,8 +201,6 @@
     "rotomblr/characters/eebies/Fares.md",
     "rotomblr/characters/eebies/Marshie.md",
     "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
-    "rotomblr/characters/Taskforce Distortion's universe/Myron.md",
-    "rotomblr/characters/eebies/Universe (maybe) parallel to Jacks's/Jack (sleeby).md",
     "rotomblr/accounts/eebies",
     "rotomblr/characters/eebies",
     "rotomblr/accounts/Jack's universe",
