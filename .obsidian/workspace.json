@@ -11,8 +11,12 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "viol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Taskforce Distortion's universe/Viridian.md"
+              }
             }
           },
           {
@@ -166,43 +175,43 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/Taskforce Distortion's universe/Myron.md",
+    "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
+    "rotomblr/characters/sleebies/Marshie.md",
+    "rotomblr/universes/Temporary sleeby universe.md",
+    "rotomblr/characters/sleebies/Universe (maybe) parallel to Jacks's/Jack (sleeby).md",
+    "rotomblr/accounts/sleebies",
+    "rotomblr/accounts/sleebies/Universe (maybe) parallel to Jacks's/@hisuian-growlithe-communication.md",
+    "rotomblr/characters/Jack's universe/Jack.md",
+    "rotomblr/universes/With rotomblr/Jack's universe.md",
+    "rotomblr/characters/sleebies/Eris's universe/Eris (sleeby).md",
+    "rotomblr/characters/Ozone world/Eris.md",
+    "rotomblr/characters/Another universe parallel to Mart's/Viv.md",
+    "rotomblr/characters/Mart's universe/Crystal.md",
+    "rotomblr/characters/sleebies",
+    "rotomblr/accounts/Jack's universe/@that-dainian-trainer.md",
+    "rotomblr/accounts/Jack's universe",
+    "rotomblr/characters/Jack's universe",
+    "rotomblr/universes/With rotomblr/Universe (maybe) parallel to Jacks's.md",
+    "rotomblr/accounts/sleebies/Universe (maybe) parallel to Jacks's",
+    "rotomblr/characters/sleebies/Universe (maybe) parallel to Jacks's",
+    "rotomblr/characters/Mart's universe/Sidon.md",
     "rotomblr/characters/Wonderguard universe/Sasha.md",
     "rotomblr/characters/Wonderguard universe/Willow.md",
-    "rotomblr/characters/Eris's universe/Eris.md",
-    "rotomblr/accounts/Eris's universe/@devilisinthedeinos.md",
-    "rotomblr/accounts/Eris's universe",
+    "rotomblr/accounts/sleebies/Eris's universe/@devilisinthedeinos.md",
+    "rotomblr/accounts/sleebies/Eris's universe",
     "rotomblr/universes/With rotomblr/Eris's universe.md",
-    "rotomblr/characters/Eris's universe",
-    "rotomblr/characters/Crystal's universe/Crystal.md",
-    "rotomblr/accounts/Crystal's universe/@crystalclearribbons.md",
+    "rotomblr/characters/sleebies/Eris's universe",
+    "rotomblr/accounts/Mart's universe/@crystalclearribbons.md",
     "rotomblr/accounts/Crystal's universe",
     "rotomblr/universes/With rotomblr/Crystal's universe.md",
-    "rotomblr/characters/Another universe parallel to Mart's/Viv.md",
     "rotomblr/characters/Crystal's universe",
     "rotomblr/accounts/Another universe parallel to Mart's/@shinx-oh.md",
-    "rotomblr/accounts/Another universe parallel to Mart's",
     "rotomblr/accounts/Mart's universe/@oh-shinx.md",
     "rotomblr/characters/Mart's universe/Casey.md",
-    "rotomblr/characters/Another universe parallel to Mart's",
     "rotomblr/characters/Sin título.md",
     "rotomblr/organizations/Cults/Team Fauna.md",
-    "rotomblr/universes/With rotomblr/Another universe parallel to Mart's.md",
-    "rotomblr/accounts/Mart's universe/@bones-poison-and-pokemon.md",
-    "rotomblr/accounts/Mart's universe/@team-fauna (changed).md",
-    "rotomblr/organizations/taskforce distortion's divisions/Star division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Skull division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Rocket division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Plasma division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Magma division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Galactic division.md",
-    "rotomblr/organizations/taskforce distortion's divisions/Aqua division.md",
-    "rotomblr/characters/Wonderguard universe/Leo.md",
-    "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
-    "rotomblr/accounts/Kerry Natar's universe",
-    "rotomblr/characters/Kerry Natar's universe",
     "Sin título.canvas",
-    "rotomblr/accounts/Gladion's universe",
-    "rotomblr/characters/Gladion's universe",
     "rotomblr/Sin título.canvas"
   ]
 }
