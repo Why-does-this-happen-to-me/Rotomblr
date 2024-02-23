@@ -118,6 +118,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#sleeby  ",
+      "color": {
+        "a": 1,
+        "rgb": 2543065
+      }
     }
   ],
   "collapse-display": true,
@@ -130,6 +137,6 @@
   "repelStrength": 8.22518518518519,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.3469900176107071,
+  "scale": 0.8075580871541919,
   "close": true
 }
