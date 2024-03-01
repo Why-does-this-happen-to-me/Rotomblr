@@ -43,6 +43,13 @@
       }
     },
     {
+      "query": "tag:#researcher  ",
+      "color": {
+        "a": 1,
+        "rgb": 5085731
+      }
+    },
+    {
       "query": "tag:#time_traveler  ",
       "color": {
         "a": 1,
@@ -68,6 +75,13 @@
       "color": {
         "a": 1,
         "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#sleeby  ",
+      "color": {
+        "a": 1,
+        "rgb": 2543065
       }
     },
     {
@@ -118,13 +132,6 @@
         "a": 1,
         "rgb": 16711680
       }
-    },
-    {
-      "query": "tag:#sleeby  ",
-      "color": {
-        "a": 1,
-        "rgb": 2543065
-      }
     }
   ],
   "collapse-display": true,
@@ -137,6 +144,6 @@
   "repelStrength": 8.22518518518519,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.8075580871541919,
+  "scale": 0.09773087709665866,
   "close": true
 }

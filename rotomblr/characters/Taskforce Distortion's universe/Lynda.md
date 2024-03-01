@@ -4,4 +4,4 @@ She/her and he/him, bigender. Researches legendary pokemon in his off time, she 
 - 🦎: Riptor (He likes using Green for his text.
 Seems to be [[Shadow]]. Lives in [[Taskforce Distortion's universe]]. [[@TrainerLynda]]
 
-#characters 
+#characters #researcher 
