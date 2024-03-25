@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "tag:#asked  ",
-      "color": {
-        "a": 1,
-        "rgb": 3391795
-      }
-    },
-    {
       "query": "tag:#fourth_wall_breaker  ",
       "color": {
         "a": 1,
@@ -99,6 +92,13 @@
       }
     },
     {
+      "query": "tag:#asked  ",
+      "color": {
+        "a": 1,
+        "rgb": 3391795
+      }
+    },
+    {
       "query": "tag:#characters  ",
       "color": {
         "a": 1,
@@ -144,6 +144,6 @@
   "repelStrength": 8.22518518518519,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.09773087709665866,
+  "scale": 0.5293529964808992,
   "close": true
 }
