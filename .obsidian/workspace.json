@@ -11,12 +11,8 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Mart's universe/Self-insert fallers/Bee (or Latula).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#characters  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Self-insert fallers/Bee (or Latula).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Self-insert fallers/Bee (or Latula).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Mart's universe/Self-insert fallers/Bee (or Latula).md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +166,20 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/characters/eebies/Mulberry.md",
+    "rotomblr/characters/Kris' universe/Kris.md",
+    "rotomblr/universes/With rotomblr/Kris' universe.md",
+    "rotomblr/accounts/Kris' universe/@a-fate-fractured.md",
+    "rotomblr/accounts/Kris' universe",
+    "rotomblr/characters/Pyel'p'peyr.md",
+    "rotomblr/characters/Kris' universe",
+    "rotomblr/characters/Sin título.md",
+    "rotomblr/characters/Blake's universe/Blake.md",
+    "rotomblr/universes/With rotomblr/Blake's universe.md",
+    "rotomblr/accounts/Blake's universe/@j0ht0-gh0sthunt3r.md",
+    "rotomblr/characters/Blake's universe",
     "rotomblr/characters/Mart's universe/Diana.md",
+    "rotomblr/accounts/Blake's universe",
     "rotomblr/characters/Mart's universe/Self-insert fallers/Bee (or Latula).md",
     "rotomblr/accounts/Mart's universe/@ghostlycombee.md",
     "rotomblr/characters/Mart's universe/Konnie.md",
@@ -192,25 +196,12 @@
     "rotomblr/characters/Super-hero universe/Matt Murdock.md",
     "rotomblr/characters/Mart's universe/Atonia.md",
     "rotomblr/characters/Mart's universe/Vio.md",
-    "rotomblr/characters/Mart's universe/Carbuncle.md",
-    "rotomblr/characters/Mart's universe/Rege-financeer.md",
-    "rotomblr/characters/Mart's universe/Gabriel.md",
-    "rotomblr/accounts/Super-hero universe/@therealwormhole-official.md",
-    "rotomblr/accounts/Super-hero universe/@muk-dude-pkmn.md",
-    "rotomblr/accounts/Mart's universe/@court-of-the-moone.md",
-    "rotomblr/accounts/Mart's universe/@oracion-princess.md",
-    "rotomblr/accounts/Mart's universe/@fields-of-gracidea.md",
-    "rotomblr/accounts/Mart's universe/@behind-your-reflection.md",
     "rotomblr/accounts/Mart's universe/Sin título",
     "rotomblr/characters/Anons",
     "rotomblr/accounts/Anons",
     "rotomblr/accounts/Drifter's universe",
     "rotomblr/characters/Drifter's universe",
     "rotomblr/accounts/Cece's universe",
-    "rotomblr/characters/Cece's universe",
-    "rotomblr/characters/Hauoli clinic",
-    "rotomblr/accounts/Hauoli clinic",
-    "rotomblr/accounts/Phantump Kieran's world",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
