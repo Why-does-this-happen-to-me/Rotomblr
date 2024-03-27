@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/organizations/Blueberry science club.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/organizations/Blueberry science club.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/organizations/Blueberry science club.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/organizations/Blueberry science club.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/organizations/Chaos kids.md",
     "rotomblr/organizations/Blueberry science club.md",
+    "rotomblr/organizations/Chaos kids.md",
     "rotomblr/characters/Pyel'p'peyr.md",
     "rotomblr/accounts/@pelipper-diactorus.md",
     "rotomblr/characters/World where crows are mythicals/Kuro.md",
