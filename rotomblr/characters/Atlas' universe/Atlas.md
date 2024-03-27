@@ -1,3 +1,3 @@
-He/him, but they/them is fine too. Former champion of the Blueberry League. Lives in [[Atlas' universe]] [[@psn-stalling]]
+He/him primarily. Former champion of the Blueberry League. Lives in [[Atlas' universe]] [[@psn-stalling]]
 
-#characters 
+#characters #unknown_mod 

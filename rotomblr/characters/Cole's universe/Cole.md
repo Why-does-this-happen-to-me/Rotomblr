@@ -1,3 +1,3 @@
-Poison unofficial gym leader in Galar. Lives in some ruins in route 13, in [[Cole's universe]]. [[@emo-gym-leader-from-galar]]
+Doesn't have pronouns specified on their blog (//Given how the character looks and their name, I guess it could be they/them, like the mod, but I prefer to not assume if possible and I haven't seen any third person text about Cole in my (very short) search). Poison unofficial gym leader in Galar. Lives in some ruins in route 13, in [[Cole's universe]]. [[@emo-gym-leader-from-galar]]
 
-#characters 
+#characters #undrsk0re

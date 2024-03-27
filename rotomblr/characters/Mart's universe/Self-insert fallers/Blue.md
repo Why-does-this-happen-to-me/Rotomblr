@@ -1,3 +1,3 @@
-Any pronouns. Fell from a different world and both them and some anons have alluded to the idea that she created people in this universe as characters, but it's now in the pokeworld too. Currently cursed by a dog collar to behave like a dog. Said collar appeared after an anon turned him into a "doggirl", but the source of both events seems to be different. Studies at Naranja-Uva Academy in [[Mart's universe]]. [[@bluefall7]]
+Any pronouns. Fell from a different world and both them and some anons have alluded to the idea that she created people in this universe as characters, but it's now in the pokeworld too. ~~Currently cursed by a dog collar to behave like a dog. Said collar appeared after an anon turned him into a "doggirl", but the source of both events seems to be different.~~Is now a houndoom hybrid and some anons are trying to make it a branded (or at least a chosen). Studies at Naranja-Uva Academy in [[Mart's universe]]. [[@bluefall7]]
 
-#characters #faller #fourth_wall_breaker #self-insert_faller #blueflare7
+#characters #faller #fourth_wall_breaker #self-insert_faller #hybrid  #blueflare7

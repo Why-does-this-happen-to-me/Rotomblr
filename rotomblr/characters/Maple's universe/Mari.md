@@ -1,3 +1,3 @@
 She/her, she is an espeon. Seems to be some kind of being whose reality is controlled by the information she receives. Her best friend is [[Audra Fulgora Rain]], and she evolved from their friendship. Given that her reality is always changing, I'll link her [intro post](https://www.tumblr.com/imaginary-adversary/738277200915202048/hello-3-my-name-is-mari-im-a-female-espeon-in?source=share). She can travel to other universes, so I'll link the [[List of universes where Mari has been]]. Her home is a cozy burrow on Route 6 in [[Maple's universe]]. [[@imaginary-adversary]]
 
-#characters #deities? #super_powers #pokemon 
+#characters #deities? #super_powers #pokemon #unknown_mod 

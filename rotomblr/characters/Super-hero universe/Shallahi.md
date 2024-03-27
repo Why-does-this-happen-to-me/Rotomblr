@@ -1,3 +1,3 @@
-A worldhopper from [[Roshar]]. Lives in Nimbosa city in [[Super-hero universe]]. [[@shallahi-and-snowflake]]
+A worldhopper from [[Roshar]]. Lives in Nimbosa city in [[Super-hero universe]]. Got turned into a luxray for a while, now she's a luxray hybrid. She has a lot of adopted kids, including [[Sword]], [[Viv]] and [[Crystal]]. [[@shallahi-and-snowflake]]
 
-#characters #asked #multiverse_traveler #faller 
+#characters #asked #multiverse_traveler #faller #hybrid #malkah-of-kharbranth //I'm 99% sure that's the mod, even if it's not said in Shallahi's blog

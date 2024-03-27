@@ -1,3 +1,3 @@
 Drum player from Inkopolis, faller from [[Splatoon's world]]. Lives in [[Triangle's world]] [[@synthsandsplatanas]]
 
-#characters #asked #faller 
+#characters #asked #faller #darlingsuperstition 

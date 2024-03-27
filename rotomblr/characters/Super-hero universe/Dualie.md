@@ -1,3 +1,3 @@
-Inkling faller from [[Splatoon's world]]. Lives in [[Super-hero universe]] [[@averagedualies]]
+Inkling faller from [[Splatoon's world]]. Member of [[Team Atlas]]. Lives in [[Super-hero universe]] [[@averagedualies]]
 
-#characters #asked #faller 
+#characters #asked #faller #stereo-sys

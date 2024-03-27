@@ -8,4 +8,4 @@ He/him, doesn't mind she/her, newly found out he likes pup/pupself too. Trying t
 
 Lives in [[Taskforce Distortion's universe]]. [[@TimeTravelerPyrite]]
 
-#characters  #multiverse_traveler #time_traveler
+#characters  #multiverse_traveler #time_traveler #theshadowqueenofthedistortion 

@@ -1,3 +1,3 @@
-When someone asked about pronouns, she answered she uses the girl ones. Seems to be a variant of [[Ella]]. Is transforming into a shinx. Got teleported to Driftveil, 2024 and her name was chosen by an anon. Comes from [[Another universe parallel to Mart's]], currently in [[Ella]]'s house, in [[Mart's universe]]. [[@shinx-oh]]
+When someone asked about pronouns, she answered she uses the girl ones. Seems to be a variant of [[Ella]]. ~~Is transforming~~Transformed into a shinx. She doesn't like being a shinx and would prefer to be a skitty, but her headmate (still unsure if that's the correct word) enjoys it. Got teleported to Driftveil, 2024 and her name was chosen by an anon. Comes from [[Another universe parallel to Mart's]], currently in [[Ella]]'s house, in [[Mart's universe]]. [[@shinx-oh]]
 
-#characters #sleeby
+#characters #sleeby #darlingsuperstition 

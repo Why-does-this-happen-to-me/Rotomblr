@@ -1,3 +1,3 @@
-She/her. [[Concordia]]'s sister. Apprenticing as a Pokémon Center nurse. Lives in [[Super-hero universe]]. [[@lovenpeace-pkmn]]
+She/her. [[Concordia]]'s sister. Trains audino for Pokémon Center work. Lives in [[Super-hero universe]]. [[@lovenpeace-pkmn]]
 
-#characters 
+#characters #OncillaPhoenix

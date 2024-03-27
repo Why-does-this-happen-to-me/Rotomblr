@@ -1,3 +1,3 @@
 He/him. Dating [[Gladion]]. Lives in [[Gladion's universe]]. [[@silvallyandweavile]]
 
-#characters 
+#characters #saywha413 

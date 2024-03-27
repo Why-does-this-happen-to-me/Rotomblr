@@ -1,3 +1,3 @@
 He/they/it. Cooks for the [[Shadow cafe]]. [[@Shadow-Cafe]]
 
-#characters 
+#characters #theshadowqueenofthedistortion #messyzoranablog 

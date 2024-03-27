@@ -1,3 +1,3 @@
-Likes Homestuck, mains Mii gunner in Smash Bros. Lives in [[Sparkles' universe]]. [[@yoylecake420]]
+She/her. Likes Homestuck, mains Mii gunner in Smash Bros. Lives in [[Sparkles' universe]]. [[@yoylecake420]]
 
-#characters 
+#characters #yoylecake420 

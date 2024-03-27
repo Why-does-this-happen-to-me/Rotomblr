@@ -1,3 +1,3 @@
-He/him. Sinnoh boy who's yet to leave his region. Lives in [[Super-hero universe]]. [[@sinnohstruggles]]
+He/they. [[Cd]]'s ex. Has ghost and ice powers (not sure if thanks to or amplified by two of Arceus' plates). Lives in [[Super-hero universe]]. [[@sinnohstruggles]]
 
-#characters 
+#characters #fuckinwhy
