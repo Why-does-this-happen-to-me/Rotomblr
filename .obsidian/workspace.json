@@ -11,8 +11,12 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md"
+              }
             }
           },
           {
@@ -166,6 +174,15 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
+    "rotomblr/universes/With rotomblr/Caelestis' universe.md",
+    "rotomblr/characters/Caelestis' universe/Caelestis.md",
+    "rotomblr/accounts/Caelestis' universe/@plasma-redux.md",
+    "rotomblr/characters/Caelestis' universe",
+    "rotomblr/organizations/Cults/The wonderguard project.md",
+    "rotomblr/accounts/Caelestis' universe",
+    "rotomblr/accounts/Wonderguard universe/@the-wonderguard-project (deleted).md",
+    "rotomblr/organizations/Cults/Team Fauna.md",
+    "rotomblr/accounts/Mart's universe/@team-fauna (changed).md",
     "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
     "rotomblr/universes/With rotomblr/Mart's universe.md",
     "rotomblr/characters/Mart's universe/Diana.md",
@@ -187,21 +204,12 @@
     "rotomblr/accounts/Akari's universe/@iam-emmet.md",
     "rotomblr/accounts/Akari's universe/@thetraveleroftime.md",
     "README.md",
-    "rotomblr/accounts/Amalia's universe/@wearethebladegang.md",
-    "rotomblr/organizations/Blueberry science club.md",
-    "rotomblr/organizations/Chaos kids.md",
-    "rotomblr/characters/Pyel'p'peyr.md",
-    "rotomblr/accounts/@pelipper-diactorus.md",
-    "rotomblr/characters/World where crows are mythicals/Kuro.md",
-    "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
     "rotomblr/accounts/Kris' universe",
     "rotomblr/characters/Kris' universe",
     "rotomblr/characters/Blake's universe",
     "rotomblr/accounts/Blake's universe",
     "rotomblr/accounts/Mart's universe/Sin título",
     "rotomblr/characters/Anons",
-    "rotomblr/accounts/Anons",
-    "rotomblr/accounts/Drifter's universe",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
