@@ -11,12 +11,8 @@
             "id": "f74c1b16bcff9f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rotomblr/characters/Mart's universe/Axel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Axel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Mart's universe/Axel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rotomblr/characters/Mart's universe/Axel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,10 +164,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52f1d687f2ec09a8",
+  "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/accounts/Mart's universe/@finna360noscopeyourass.md",
+    "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
+    "rotomblr/universes/With rotomblr/Mart's universe.md",
+    "rotomblr/characters/Mart's universe/Diana.md",
+    "rotomblr/characters/Anons/Rose.md",
+    "rotomblr/characters/Anons/Rotom anon.md",
+    "rotomblr/characters/Anons/Poke.md",
+    "rotomblr/characters/Mart's universe/Seraphina.md",
+    "rotomblr/accounts/Anons/@theroseanon.md",
+    "rotomblr/characters/Mart's universe/Cerise.md",
+    "rotomblr/characters/Eebies/Mark.md",
+    "rotomblr/universes/With rotomblr/Cobblemon universe.md",
+    "rotomblr/characters/Cobblemon/Turtle (or Blue, or Lofi).md",
+    "rotomblr/accounts/Cobblemon/@cobblueengland.md",
+    "rotomblr/characters/Cobblemon",
     "rotomblr/characters/Mart's universe/Axel.md",
+    "rotomblr/accounts/Cobblemon",
+    "rotomblr/accounts/Mart's universe/@finna360noscopeyourass.md",
     "rotomblr/accounts/Abyss universe/@cultoftheabyss.md",
     "rotomblr/accounts/Akari's universe/@iam-emmet.md",
     "rotomblr/accounts/Akari's universe/@thetraveleroftime.md",
@@ -188,19 +194,6 @@
     "rotomblr/accounts/@pelipper-diactorus.md",
     "rotomblr/characters/World where crows are mythicals/Kuro.md",
     "rotomblr/universes/With rotomblr/world where crows are mythicals.md",
-    "rotomblr/accounts/World where crows are mythicals/@pokecrow.md",
-    "rotomblr/characters/Wonderguard universe/Willow.md",
-    "rotomblr/characters/Wonderguard universe/Vivillion.md",
-    "rotomblr/accounts/Wonderguard universe/@ledi-anon.md",
-    "rotomblr/characters/Wonderguard universe/Sasha.md",
-    "rotomblr/characters/Wonderguard universe/Leo.md",
-    "rotomblr/characters/Whatever world Cynthia is in right now/Cynthia.md",
-    "rotomblr/characters/Maple's universe/Maple.md",
-    "rotomblr/accounts/Wonderguard universe/@fallenup.md",
-    "rotomblr/accounts/Whatever world Cynthia is in right now/@shiftingbetweenrealities.md",
-    "rotomblr/characters/Universe parallel to Mart's/Fran.md",
-    "rotomblr/characters/Universe 57189/57189.md",
-    "rotomblr/accounts/Universe paralel to Mart's/@fran-from-paldea.md",
     "rotomblr/accounts/Kris' universe",
     "rotomblr/characters/Kris' universe",
     "rotomblr/characters/Blake's universe",
@@ -209,8 +202,6 @@
     "rotomblr/characters/Anons",
     "rotomblr/accounts/Anons",
     "rotomblr/accounts/Drifter's universe",
-    "rotomblr/characters/Drifter's universe",
-    "rotomblr/accounts/Cece's universe",
     "Sin título.canvas",
     "rotomblr/Sin título.canvas"
   ]
