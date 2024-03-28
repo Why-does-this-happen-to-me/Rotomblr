@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
+                "file": "rotomblr/characters/Super-hero universe/Cd.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
+                "file": "rotomblr/characters/Super-hero universe/Cd.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md",
+                "file": "rotomblr/characters/Super-hero universe/Cd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Caelestis' universe/Caelestis.md"
+                "file": "rotomblr/characters/Super-hero universe/Cd.md"
               }
             }
           },
@@ -174,8 +175,11 @@
   },
   "active": "f74c1b16bcff9f6a",
   "lastOpenFiles": [
-    "rotomblr/universes/With rotomblr/Caelestis' universe.md",
+    "rotomblr/accounts/Super-hero universe/@unovan-gardener.md",
+    "rotomblr/characters/Super-hero universe/Cd.md",
+    "rotomblr/characters/Mart's universe/Atonia.md",
     "rotomblr/characters/Caelestis' universe/Caelestis.md",
+    "rotomblr/universes/With rotomblr/Caelestis' universe.md",
     "rotomblr/accounts/Caelestis' universe/@plasma-redux.md",
     "rotomblr/characters/Caelestis' universe",
     "rotomblr/organizations/Cults/The wonderguard project.md",
@@ -201,9 +205,6 @@
     "rotomblr/accounts/Cobblemon",
     "rotomblr/accounts/Mart's universe/@finna360noscopeyourass.md",
     "rotomblr/accounts/Abyss universe/@cultoftheabyss.md",
-    "rotomblr/accounts/Akari's universe/@iam-emmet.md",
-    "rotomblr/accounts/Akari's universe/@thetraveleroftime.md",
-    "README.md",
     "rotomblr/accounts/Kris' universe",
     "rotomblr/characters/Kris' universe",
     "rotomblr/characters/Blake's universe",
