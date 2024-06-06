@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2aad88922d8ec4",
+        "id": "a2eb165dcdb7d847",
         "type": "tabs",
         "children": [
           {
-            "id": "f74c1b16bcff9f6a",
+            "id": "485785a78a6587b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/characters/Super-hero universe/Cd.md",
+                "file": "rotomblr/characters/Mart's universe/Gabriel.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/characters/Super-hero universe/Cd.md",
+                "file": "rotomblr/characters/Mart's universe/Gabriel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/characters/Super-hero universe/Cd.md",
+                "file": "rotomblr/characters/Mart's universe/Gabriel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/characters/Super-hero universe/Cd.md"
+                "file": "rotomblr/characters/Mart's universe/Gabriel.md"
               }
             }
           },
@@ -173,10 +172,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f74c1b16bcff9f6a",
+  "active": "485785a78a6587b8",
   "lastOpenFiles": [
-    "rotomblr/accounts/Super-hero universe/@unovan-gardener.md",
+    "rotomblr/characters/Mart's universe/Gabriel (branded).md",
+    "rotomblr/characters/Mart's universe/Gabriel.md",
+    "rotomblr/accounts/Mart's universe/@eeriemagicians.md",
+    "rotomblr/characters/Mart's universe/Brianne.md",
+    "rotomblr/accounts/Mart's universe/@pichuparadise.md",
+    "rotomblr/characters/Atlas' universe/Viridian or dia.md",
+    "rotomblr/characters/Mart's universe/Konnie.md",
+    "rotomblr/accounts/Atlas' universe/@blueberry-fresh.md",
+    "rotomblr/characters/Mart's universe/Self-insert fallers/Melmy.md",
+    "rotomblr/characters/Taskforce Distortion's universe/Viridian.md",
+    "rotomblr/accounts/Mart's universe/@melmied-me.md",
+    "rotomblr/characters/Mart's universe/Self-insert fallers/Bench.md",
+    "rotomblr/accounts/Mart's universe/@benchinthepokemonworld.md",
+    "rotomblr/accounts/Mart's universe/@jackiethemeteor.md",
+    "rotomblr/characters/Mart's universe/Self-insert fallers/Jackie.md",
+    "rotomblr/accounts/Mart's universe/@bane-of-beings-that-fish.md",
+    "rotomblr/characters/Eebies/Marshie.md",
+    "rotomblr/universes/With rotomblr/Mart's universe.md",
     "rotomblr/characters/Super-hero universe/Cd.md",
+    "rotomblr/accounts/Super-hero universe/@unovan-gardener.md",
     "rotomblr/characters/Mart's universe/Atonia.md",
     "rotomblr/characters/Caelestis' universe/Caelestis.md",
     "rotomblr/universes/With rotomblr/Caelestis' universe.md",
@@ -185,26 +202,8 @@
     "rotomblr/organizations/Cults/The wonderguard project.md",
     "rotomblr/accounts/Caelestis' universe",
     "rotomblr/accounts/Wonderguard universe/@the-wonderguard-project (deleted).md",
-    "rotomblr/organizations/Cults/Team Fauna.md",
-    "rotomblr/accounts/Mart's universe/@team-fauna (changed).md",
-    "rotomblr/universes/With rotomblr/Universe 2014Δ.md",
-    "rotomblr/universes/With rotomblr/Mart's universe.md",
-    "rotomblr/characters/Mart's universe/Diana.md",
-    "rotomblr/characters/Anons/Rose.md",
-    "rotomblr/characters/Anons/Rotom anon.md",
-    "rotomblr/characters/Anons/Poke.md",
-    "rotomblr/characters/Mart's universe/Seraphina.md",
-    "rotomblr/accounts/Anons/@theroseanon.md",
-    "rotomblr/characters/Mart's universe/Cerise.md",
-    "rotomblr/characters/Eebies/Mark.md",
-    "rotomblr/universes/With rotomblr/Cobblemon universe.md",
-    "rotomblr/characters/Cobblemon/Turtle (or Blue, or Lofi).md",
-    "rotomblr/accounts/Cobblemon/@cobblueengland.md",
     "rotomblr/characters/Cobblemon",
-    "rotomblr/characters/Mart's universe/Axel.md",
     "rotomblr/accounts/Cobblemon",
-    "rotomblr/accounts/Mart's universe/@finna360noscopeyourass.md",
-    "rotomblr/accounts/Abyss universe/@cultoftheabyss.md",
     "rotomblr/accounts/Kris' universe",
     "rotomblr/characters/Kris' universe",
     "rotomblr/characters/Blake's universe",
