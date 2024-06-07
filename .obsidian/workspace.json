@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/Cobblemon universe.md",
+                "file": "rotomblr/characters/Anon magic researcher's universe/S. Harrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/Cobblemon universe.md",
+                "file": "rotomblr/characters/Anon magic researcher's universe/S. Harrison.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/Cobblemon universe.md",
+                "file": "rotomblr/characters/Anon magic researcher's universe/S. Harrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rotomblr/universes/With rotomblr/Cobblemon universe.md"
+                "file": "rotomblr/characters/Anon magic researcher's universe/S. Harrison.md"
               }
             }
           },
@@ -173,9 +172,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "485785a78a6587b8",
+  "active": "e23fa26e388f478d",
   "lastOpenFiles": [
     "rotomblr/characters/Mart's universe/Gabriel.md",
+    "rotomblr/universes/With rotomblr/Cobblemon universe.md",
     "rotomblr/characters/Mart's universe/Gabriel (branded).md",
     "rotomblr/accounts/Mart's universe/@eeriemagicians.md",
     "rotomblr/characters/Mart's universe/Brianne.md",
@@ -202,7 +202,6 @@
     "rotomblr/characters/Caelestis' universe",
     "rotomblr/organizations/Cults/The wonderguard project.md",
     "rotomblr/accounts/Caelestis' universe",
-    "rotomblr/accounts/Wonderguard universe/@the-wonderguard-project (deleted).md",
     "rotomblr/characters/Cobblemon",
     "rotomblr/accounts/Cobblemon",
     "rotomblr/accounts/Kris' universe",
